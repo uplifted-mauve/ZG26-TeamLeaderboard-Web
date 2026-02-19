@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generatedAt": "2026-02-19T08:54:50.264934",
+    "totalEntries": 2,
+    "lastScraped": "2026-02-19 13:39:52",
+    "source": "Zwift Games 2026 API",
+    "teamName": "NAACCers",
+    "filteredByProfileIds": true
+  },
+  "entries": [
+    {
+      "profileId": "2805084",
+      "rank": 5544,
+      "firstName": "Alex",
+      "lastName": "Rose [T&S]",
+      "timeMs": 1565451,
+      "timeFormatted": "26:05.451",
+      "zrs": 504.03,
+      "gender": "MALE",
+      "countryCode": 124,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588"
+    },
+    {
+      "profileId": "7975351",
+      "rank": 17489,
+      "firstName": "John",
+      "lastName": "Beckshaw",
+      "timeMs": 1882777,
+      "timeFormatted": "31:22.777",
+      "zrs": 196.07,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": null
+    }
+  ]
+}
