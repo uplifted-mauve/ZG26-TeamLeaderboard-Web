@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-19T08:41:19.123681",
-    "totalEntries": 10,
-    "lastScraped": "2026-02-19 13:39:52",
+    "generatedAt": "2026-02-20T17:05:59.209839",
+    "totalEntries": 12,
+    "lastScraped": "2026-02-20 21:46:51",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -11,7 +11,7 @@
   "entries": [
     {
       "profileId": "1240469",
-      "rank": 1692,
+      "rank": 1903,
       "firstName": "Scott",
       "lastName": "Farrow [T&S]",
       "timeMs": 1463572,
@@ -25,7 +25,7 @@
     },
     {
       "profileId": "4413373",
-      "rank": 1935,
+      "rank": 2198,
       "firstName": "Sam",
       "lastName": "Leahy (T&S)",
       "timeMs": 1471028,
@@ -39,7 +39,7 @@
     },
     {
       "profileId": "685362",
-      "rank": 4446,
+      "rank": 5693,
       "firstName": "C",
       "lastName": "P [T&S]",
       "timeMs": 1544334,
@@ -53,7 +53,7 @@
     },
     {
       "profileId": "2805084",
-      "rank": 5544,
+      "rank": 7143,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
       "timeMs": 1565451,
@@ -67,7 +67,7 @@
     },
     {
       "profileId": "1391588",
-      "rank": 6076,
+      "rank": 7879,
       "firstName": "Bryan",
       "lastName": "Culliford [T&S]",
       "timeMs": 1577135,
@@ -81,7 +81,7 @@
     },
     {
       "profileId": "8073072",
-      "rank": 10471,
+      "rank": 13948,
       "firstName": "Charlie",
       "lastName": "Bendall (T&S)",
       "timeMs": 1678039,
@@ -95,7 +95,7 @@
     },
     {
       "profileId": "4638424",
-      "rank": 13088,
+      "rank": 17414,
       "firstName": "Sonderegger   ",
       "lastName": "Fredi🥷[EVO] CRP",
       "timeMs": 1746146,
@@ -109,7 +109,7 @@
     },
     {
       "profileId": "4627735",
-      "rank": 13618,
+      "rank": 18170,
       "firstName": "➕_cap",
       "lastName": "☕🚲",
       "timeMs": 1759249,
@@ -123,7 +123,7 @@
     },
     {
       "profileId": "160384",
-      "rank": 14512,
+      "rank": 19523,
       "firstName": " Floyd",
       "lastName": "CycSol/BZR",
       "timeMs": 1785847,
@@ -136,8 +136,36 @@
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/3f1b9dec-96518"
     },
     {
+      "profileId": "292691",
+      "rank": 20015,
+      "firstName": "Steve",
+      "lastName": "Culliford [T&S]",
+      "timeMs": 1797816,
+      "timeFormatted": "29:57.816",
+      "zrs": 339.02,
+      "gender": "MALE",
+      "countryCode": 901,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/941a37bd-1210074"
+    },
+    {
+      "profileId": "2898234",
+      "rank": 24471,
+      "firstName": "M",
+      "lastName": "arie-Andree [T&S]",
+      "timeMs": 1936319,
+      "timeFormatted": "32:16.319",
+      "zrs": 251.84,
+      "gender": "FEMALE",
+      "countryCode": 124,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583"
+    },
+    {
       "profileId": "6072661",
-      "rank": 20750,
+      "rank": 27451,
       "firstName": "Wayne",
       "lastName": "F - TWR  (T&S)",
       "timeMs": 2100935,
