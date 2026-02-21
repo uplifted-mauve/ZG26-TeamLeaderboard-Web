@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-20T19:16:28.085850",
+    "generatedAt": "2026-02-20T21:01:26.874591",
     "totalEntries": 4,
     "lastScraped": "2026-02-20 23:30:41",
     "source": "Zwift Games 2026 API",
@@ -21,7 +21,18 @@
       "countryCode": 124,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1565451,
+            "bestTime_activityId": "2076306177855094832",
+            "bestTime_eventId": 5429334,
+            "bestTime_eventSubgroupId": 6933918,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "7064924",
@@ -35,7 +46,18 @@
       "countryCode": 840,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1650363,
+            "bestTime_activityId": "2077937165496500240",
+            "bestTime_eventId": 5429231,
+            "bestTime_eventSubgroupId": 6933408,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "7975351",
@@ -49,7 +71,18 @@
       "countryCode": 840,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": null
+      "imageUrl": null,
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1882777,
+            "bestTime_activityId": "2076968996007084032",
+            "bestTime_eventId": 5429299,
+            "bestTime_eventSubgroupId": 6933745,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "2898234",
@@ -63,7 +96,18 @@
       "countryCode": 124,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1936319,
+            "bestTime_activityId": "2077782651246215168",
+            "bestTime_eventId": 5429238,
+            "bestTime_eventSubgroupId": 6933444,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     }
   ]
 }

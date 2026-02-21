@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-20T17:05:59.209839",
+    "generatedAt": "2026-02-20T21:03:53.278103",
     "totalEntries": 12,
-    "lastScraped": "2026-02-20 21:46:51",
+    "lastScraped": "2026-02-20 23:30:41",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -21,7 +21,18 @@
       "countryCode": 826,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c43d3b1-653591"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c43d3b1-653591",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1463572,
+            "bestTime_activityId": "2075732368093626400",
+            "bestTime_eventId": 5429244,
+            "bestTime_eventSubgroupId": 6933471,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "4413373",
@@ -35,7 +46,18 @@
       "countryCode": 826,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/795b29f6-2199025"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/795b29f6-2199025",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1471028,
+            "bestTime_activityId": "2075731396231430160",
+            "bestTime_eventId": 5429244,
+            "bestTime_eventSubgroupId": 6933471,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "685362",
@@ -49,7 +71,18 @@
       "countryCode": 826,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c9c9645-1325922"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c9c9645-1325922",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1544334,
+            "bestTime_activityId": "2076486105896599584",
+            "bestTime_eventId": 5429271,
+            "bestTime_eventSubgroupId": 6933607,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "2805084",
@@ -63,7 +96,18 @@
       "countryCode": 124,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1565451,
+            "bestTime_activityId": "2076306177855094832",
+            "bestTime_eventId": 5429334,
+            "bestTime_eventSubgroupId": 6933918,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "1391588",
@@ -77,7 +121,18 @@
       "countryCode": 901,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/6fc38905-767621"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/6fc38905-767621",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1577135,
+            "bestTime_activityId": "2075763729030447152",
+            "bestTime_eventId": 5429221,
+            "bestTime_eventSubgroupId": 6933358,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "8073072",
@@ -91,7 +146,18 @@
       "countryCode": 826,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f951461f-3409479"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f951461f-3409479",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1678039,
+            "bestTime_activityId": "2076277507220340752",
+            "bestTime_eventId": 5429192,
+            "bestTime_eventSubgroupId": 6933214,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "4638424",
@@ -105,7 +171,18 @@
       "countryCode": 756,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/2639f600-2360623"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/2639f600-2360623",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1746146,
+            "bestTime_activityId": "2075373632015597584",
+            "bestTime_eventId": 5430682,
+            "bestTime_eventSubgroupId": 6938618,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "4627735",
@@ -119,7 +196,18 @@
       "countryCode": 840,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/9302ba99-2341952"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/9302ba99-2341952",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1759249,
+            "bestTime_activityId": "2076368216115904544",
+            "bestTime_eventId": 5429252,
+            "bestTime_eventSubgroupId": 6933514,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "160384",
@@ -133,7 +221,18 @@
       "countryCode": 840,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/3f1b9dec-96518"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/3f1b9dec-96518",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1785847,
+            "bestTime_activityId": "2076517947551006736",
+            "bestTime_eventId": 5429245,
+            "bestTime_eventSubgroupId": 6933478,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "292691",
@@ -147,7 +246,18 @@
       "countryCode": 901,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/941a37bd-1210074"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/941a37bd-1210074",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1797816,
+            "bestTime_activityId": "2077635077805735936",
+            "bestTime_eventId": 5429250,
+            "bestTime_eventSubgroupId": 6933503,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "2898234",
@@ -161,7 +271,18 @@
       "countryCode": 124,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1936319,
+            "bestTime_activityId": "2077782651246215168",
+            "bestTime_eventId": 5429238,
+            "bestTime_eventSubgroupId": 6933444,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     },
     {
       "profileId": "6072661",
@@ -175,7 +296,18 @@
       "countryCode": 826,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e5b3e8cb-2865468"
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e5b3e8cb-2865468",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 2100935,
+            "bestTime_activityId": "2075725733803606032",
+            "bestTime_eventId": 5429244,
+            "bestTime_eventSubgroupId": 6933475,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
     }
   ]
 }
