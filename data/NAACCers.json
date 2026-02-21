@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-20T17:07:25.238593",
-    "totalEntries": 3,
-    "lastScraped": "2026-02-20 21:46:51",
+    "generatedAt": "2026-02-20T19:16:28.085850",
+    "totalEntries": 4,
+    "lastScraped": "2026-02-20 23:30:41",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACCers",
     "filteredByProfileIds": true
@@ -22,6 +22,20 @@
       "eventCount": 1,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588"
+    },
+    {
+      "profileId": "7064924",
+      "rank": 12681,
+      "firstName": "Mike",
+      "lastName": "Puglielli",
+      "timeMs": 1650363,
+      "timeFormatted": "27:30.363",
+      "zrs": 315.2,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025"
     },
     {
       "profileId": "7975351",
