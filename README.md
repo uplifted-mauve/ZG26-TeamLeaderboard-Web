@@ -1,1 +1,0 @@
-# Zwift Games 2026 Team Leaderboard
