@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-21T16:52:16.772507",
-    "totalEntries": 17,
-    "lastScraped": "2026-02-21 21:09:20",
+    "generatedAt": "2026-02-22T16:21:20.359080",
+    "totalEntries": 18,
+    "lastScraped": "2026-02-22 21:17:29",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -110,6 +110,31 @@
       }
     },
     {
+      "profileId": "2805084",
+      "rank": 4479,
+      "firstName": "Alex",
+      "lastName": "Rose [T&S]",
+      "timeMs": 1508232,
+      "timeFormatted": "25:08.232",
+      "zrs": 506.85,
+      "gender": "MALE",
+      "countryCode": 124,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1508232,
+            "bestTime_activityId": "2079324972920094720",
+            "bestTime_eventId": 5429253,
+            "bestTime_eventSubgroupId": 6933516,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
       "profileId": "685362",
       "rank": 5693,
       "firstName": "C",
@@ -154,31 +179,6 @@
             "bestTime_activityId": "2078447625245294592",
             "bestTime_eventId": 5429204,
             "bestTime_eventSubgroupId": 6933272,
-            "eventSeriesId": 12408
-          }
-        ]
-      }
-    },
-    {
-      "profileId": "2805084",
-      "rank": 7143,
-      "firstName": "Alex",
-      "lastName": "Rose [T&S]",
-      "timeMs": 1565451,
-      "timeFormatted": "26:05.451",
-      "zrs": 504.03,
-      "gender": "MALE",
-      "countryCode": 124,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1565451,
-            "bestTime_activityId": "2076306177855094832",
-            "bestTime_eventId": 5429334,
-            "bestTime_eventSubgroupId": 6933918,
             "eventSeriesId": 12408
           }
         ]
@@ -235,6 +235,31 @@
       }
     },
     {
+      "profileId": "2898234",
+      "rank": 15437,
+      "firstName": "M",
+      "lastName": "arie-Andree [T&S]",
+      "timeMs": 1652572,
+      "timeFormatted": "27:32.572",
+      "zrs": 268.77,
+      "gender": "FEMALE",
+      "countryCode": 124,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1652572,
+            "bestTime_activityId": "2079289138749669376",
+            "bestTime_eventId": 5429291,
+            "bestTime_eventSubgroupId": 6933705,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
       "profileId": "4627735",
       "rank": 18170,
       "firstName": "➕_cap",
@@ -254,6 +279,31 @@
             "bestTime_activityId": "2076368216115904544",
             "bestTime_eventId": 5429252,
             "bestTime_eventSubgroupId": 6933514,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "2311694",
+      "rank": 19086,
+      "firstName": "David",
+      "lastName": "King (T&S)",
+      "timeMs": 1700039,
+      "timeFormatted": "28:20.039",
+      "zrs": 273.27,
+      "gender": "MALE",
+      "countryCode": 372,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/5a6a65b4-1504630",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1700039,
+            "bestTime_activityId": "2079295722892558336",
+            "bestTime_eventId": 5429291,
+            "bestTime_eventSubgroupId": 6933705,
             "eventSeriesId": 12408
           }
         ]
@@ -379,31 +429,6 @@
             "bestTime_activityId": "2078573370806403120",
             "bestTime_eventId": 5429230,
             "bestTime_eventSubgroupId": 6933403,
-            "eventSeriesId": 12408
-          }
-        ]
-      }
-    },
-    {
-      "profileId": "2898234",
-      "rank": 24471,
-      "firstName": "M",
-      "lastName": "arie-Andree [T&S]",
-      "timeMs": 1936319,
-      "timeFormatted": "32:16.319",
-      "zrs": 251.84,
-      "gender": "FEMALE",
-      "countryCode": 124,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1936319,
-            "bestTime_activityId": "2077782651246215168",
-            "bestTime_eventId": 5429238,
-            "bestTime_eventSubgroupId": 6933444,
             "eventSeriesId": 12408
           }
         ]
