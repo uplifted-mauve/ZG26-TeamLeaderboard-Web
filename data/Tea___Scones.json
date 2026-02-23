@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-22T16:21:20.359080",
-    "totalEntries": 18,
-    "lastScraped": "2026-02-22 21:17:29",
+    "generatedAt": "2026-02-23T11:38:54.534582",
+    "totalEntries": 20,
+    "lastScraped": "2026-02-23 16:35:46",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -260,31 +260,6 @@
       }
     },
     {
-      "profileId": "4627735",
-      "rank": 18170,
-      "firstName": "➕_cap",
-      "lastName": "☕🚲",
-      "timeMs": 1759249,
-      "timeFormatted": "29:19.249",
-      "zrs": 254.09,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/9302ba99-2341952",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1759249,
-            "bestTime_activityId": "2076368216115904544",
-            "bestTime_eventId": 5429252,
-            "bestTime_eventSubgroupId": 6933514,
-            "eventSeriesId": 12408
-          }
-        ]
-      }
-    },
-    {
       "profileId": "2311694",
       "rank": 19086,
       "firstName": "David",
@@ -335,31 +310,6 @@
       }
     },
     {
-      "profileId": "4638424",
-      "rank": 19781,
-      "firstName": "Sonderegger   ",
-      "lastName": "Fredi🥷[EVO] CRP",
-      "timeMs": 1746146,
-      "timeFormatted": "29:06.146",
-      "zrs": 704.96,
-      "gender": "MALE",
-      "countryCode": 756,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/2639f600-2360623",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1746146,
-            "bestTime_activityId": "2075373632015597584",
-            "bestTime_eventId": 5430682,
-            "bestTime_eventSubgroupId": 6938618,
-            "eventSeriesId": 12408
-          }
-        ]
-      }
-    },
-    {
       "profileId": "292691",
       "rank": 20015,
       "firstName": "Steve",
@@ -385,25 +335,50 @@
       }
     },
     {
-      "profileId": "183308",
-      "rank": 20163,
-      "firstName": "Nev",
-      "lastName": "Spowage [T&S]",
-      "timeMs": 1751572,
-      "timeFormatted": "29:11.572",
-      "zrs": 237.24,
+      "profileId": "719512",
+      "rank": 22808,
+      "firstName": "vincent",
+      "lastName": "allard[T&S]",
+      "timeMs": 1745843,
+      "timeFormatted": "29:05.843",
+      "zrs": 267.41,
       "gender": "MALE",
-      "countryCode": 902,
+      "countryCode": 840,
       "eventCount": 1,
       "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/4c816a57-228765",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/87df2a5c-2317099",
       "participationData": {
         "series": [
           {
-            "bestTimeMs": 1751572,
-            "bestTime_activityId": "2078511626004201520",
-            "bestTime_eventId": 5429292,
-            "bestTime_eventSubgroupId": 6933710,
+            "bestTimeMs": 1745843,
+            "bestTime_activityId": "2079960890030981136",
+            "bestTime_eventId": 5429257,
+            "bestTime_eventSubgroupId": 6933539,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "4638424",
+      "rank": 22824,
+      "firstName": "Sonderegger   ",
+      "lastName": "Fredi🥷[EVO] CRP",
+      "timeMs": 1746146,
+      "timeFormatted": "29:06.146",
+      "zrs": 704.96,
+      "gender": "MALE",
+      "countryCode": 756,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/2639f600-2360623",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1746146,
+            "bestTime_activityId": "2075373632015597584",
+            "bestTime_eventId": 5430682,
+            "bestTime_eventSubgroupId": 6938618,
             "eventSeriesId": 12408
           }
         ]
@@ -435,6 +410,56 @@
       }
     },
     {
+      "profileId": "183308",
+      "rank": 23224,
+      "firstName": "Nev",
+      "lastName": "Spowage [T&S]",
+      "timeMs": 1751572,
+      "timeFormatted": "29:11.572",
+      "zrs": 237.24,
+      "gender": "MALE",
+      "countryCode": 902,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/4c816a57-228765",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1751572,
+            "bestTime_activityId": "2078511626004201520",
+            "bestTime_eventId": 5429292,
+            "bestTime_eventSubgroupId": 6933710,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "4627735",
+      "rank": 23795,
+      "firstName": "➕_cap",
+      "lastName": "☕🚲",
+      "timeMs": 1759249,
+      "timeFormatted": "29:19.249",
+      "zrs": 254.09,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/9302ba99-2341952",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1759249,
+            "bestTime_activityId": "2076368216115904544",
+            "bestTime_eventId": 5429252,
+            "bestTime_eventSubgroupId": 6933514,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
       "profileId": "6072661",
       "rank": 27451,
       "firstName": "Wayne",
@@ -454,6 +479,31 @@
             "bestTime_activityId": "2075725733803606032",
             "bestTime_eventId": 5429244,
             "bestTime_eventSubgroupId": 6933475,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "5026980",
+      "rank": 29734,
+      "firstName": "Tim",
+      "lastName": "Sharp [T&S]",
+      "timeMs": 1871708,
+      "timeFormatted": "31:11.708",
+      "zrs": 337.42,
+      "gender": "MALE",
+      "countryCode": 826,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/322b6b23-2719394",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1871708,
+            "bestTime_activityId": "2079781615864676400",
+            "bestTime_eventId": 5429288,
+            "bestTime_eventSubgroupId": 6933689,
             "eventSeriesId": 12408
           }
         ]

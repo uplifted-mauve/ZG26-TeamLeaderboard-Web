@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-22T16:18:42.621428",
-    "totalEntries": 4,
-    "lastScraped": "2026-02-22 21:17:29",
+    "generatedAt": "2026-02-23T11:38:48.584967",
+    "totalEntries": 7,
+    "lastScraped": "2026-02-23 16:35:46",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true
@@ -29,6 +29,31 @@
             "bestTime_activityId": "2079324972920094720",
             "bestTime_eventId": 5429253,
             "bestTime_eventSubgroupId": 6933516,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "7250625",
+      "rank": 13055,
+      "firstName": "Alex",
+      "lastName": "Land",
+      "timeMs": 1616769,
+      "timeFormatted": "26:56.769",
+      "zrs": 395.14,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/bbdc304b-3422796",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1616769,
+            "bestTime_activityId": "2079958700084199456",
+            "bestTime_eventId": 5429257,
+            "bestTime_eventSubgroupId": 6933537,
             "eventSeriesId": 12408
           }
         ]
@@ -85,6 +110,31 @@
       }
     },
     {
+      "profileId": "719512",
+      "rank": 22808,
+      "firstName": "vincent",
+      "lastName": "allard[T&S]",
+      "timeMs": 1745843,
+      "timeFormatted": "29:05.843",
+      "zrs": 267.41,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/87df2a5c-2317099",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1745843,
+            "bestTime_activityId": "2079960890030981136",
+            "bestTime_eventId": 5429257,
+            "bestTime_eventSubgroupId": 6933539,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
       "profileId": "7975351",
       "rank": 22882,
       "firstName": "John",
@@ -104,6 +154,31 @@
             "bestTime_activityId": "2076968996007084032",
             "bestTime_eventId": 5429299,
             "bestTime_eventSubgroupId": 6933745,
+            "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "7872204",
+      "rank": 23433,
+      "firstName": "Collin",
+      "lastName": "McLaughlin",
+      "timeMs": 1754458,
+      "timeFormatted": "29:14.458",
+      "zrs": 272.31,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": null,
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1754458,
+            "bestTime_activityId": "2079952979263225856",
+            "bestTime_eventId": 5429257,
+            "bestTime_eventSubgroupId": 6933539,
             "eventSeriesId": 12408
           }
         ]
