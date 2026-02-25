@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-24T21:46:20.746454",
-    "totalEntries": 23,
+    "generatedAt": "2026-02-24T22:11:20.819831",
+    "totalEntries": 18,
     "lastScraped": "2026-02-24 00:07:16",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
@@ -327,31 +327,6 @@
       }
     },
     {
-      "profileId": "160384",
-      "rank": 19523,
-      "firstName": " Floyd",
-      "lastName": "CycSol/BZR",
-      "timeMs": 1785847,
-      "timeFormatted": "29:45.847",
-      "zrs": 335.77,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/3f1b9dec-96518",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1785847,
-            "bestTime_activityId": "2076517947551006736",
-            "bestTime_eventId": 5429245,
-            "bestTime_eventSubgroupId": 6933478,
-            "eventSeriesId": 12408
-          }
-        ]
-      }
-    },
-    {
       "profileId": "292691",
       "rank": 20015,
       "firstName": "Steve",
@@ -452,31 +427,6 @@
       }
     },
     {
-      "profileId": "4627735",
-      "rank": 23795,
-      "firstName": "➕_cap",
-      "lastName": "☕🚲",
-      "timeMs": 1759249,
-      "timeFormatted": "29:19.249",
-      "zrs": 254.09,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/9302ba99-2341952",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1759249,
-            "bestTime_activityId": "2076368216115904544",
-            "bestTime_eventId": 5429252,
-            "bestTime_eventSubgroupId": 6933514,
-            "eventSeriesId": 12408
-          }
-        ]
-      }
-    },
-    {
       "profileId": "6072661",
       "rank": 27451,
       "firstName": "Wayne",
@@ -547,81 +497,6 @@
             "bestTime_activityId": "2080048337477697568",
             "bestTime_eventId": "5430705",
             "bestTime_eventSubgroupId": "6938641"
-          }
-        ]
-      }
-    },
-    {
-      "profileId": "77917",
-      "rank": null,
-      "firstName": "Alain",
-      "lastName": "Torri [CRC]",
-      "timeMs": 1606144,
-      "timeFormatted": "26:46.144",
-      "zrs": null,
-      "gender": "M",
-      "countryCode": 380,
-      "eventCount": 1,
-      "playerType": null,
-      "imageUrl": null,
-      "participationData": {
-        "series": [
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 1606144,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5430529",
-            "bestTime_eventSubgroupId": null
-          }
-        ]
-      }
-    },
-    {
-      "profileId": "3113376",
-      "rank": null,
-      "firstName": "Matt",
-      "lastName": "Jarvis",
-      "timeMs": 1635147,
-      "timeFormatted": "27:15.147",
-      "zrs": null,
-      "gender": "M",
-      "countryCode": 826,
-      "eventCount": 1,
-      "playerType": null,
-      "imageUrl": null,
-      "participationData": {
-        "series": [
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 1635147,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5429379",
-            "bestTime_eventSubgroupId": null
-          }
-        ]
-      }
-    },
-    {
-      "profileId": "5707546",
-      "rank": null,
-      "firstName": "Sam",
-      "lastName": "Hampton",
-      "timeMs": 1664150,
-      "timeFormatted": "27:44.150",
-      "zrs": null,
-      "gender": "M",
-      "countryCode": 826,
-      "eventCount": 1,
-      "playerType": null,
-      "imageUrl": null,
-      "participationData": {
-        "series": [
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 1664150,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5429366",
-            "bestTime_eventSubgroupId": null
           }
         ]
       }
