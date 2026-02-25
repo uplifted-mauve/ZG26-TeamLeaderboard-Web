@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-25T10:49:22.341901",
-    "totalEntries": 8,
-    "lastScraped": "2026-02-24 00:07:16",
+    "generatedAt": "2026-02-25T14:58:18.069584",
+    "totalEntries": 9,
+    "lastScraped": "2026-02-25T19:58:07.836074+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true
@@ -30,6 +30,38 @@
             "bestTime_eventId": 5430649,
             "bestTime_eventSubgroupId": 6938585,
             "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "68303",
+      "rank": 3688,
+      "firstName": "Ryan",
+      "lastName": "Dobbins",
+      "timeMs": 3253421,
+      "timeFormatted": "54:13.421",
+      "zrs": 404.05,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 2,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/e386536e-55764",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1523140,
+            "bestTime_activityId": "2076367300641980416",
+            "bestTime_eventId": 5429252,
+            "bestTime_eventSubgroupId": 6933512,
+            "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1730281,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429383",
+            "bestTime_eventSubgroupId": null
           }
         ]
       }
