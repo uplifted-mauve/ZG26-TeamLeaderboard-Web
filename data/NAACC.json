@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-24T22:11:20.807776",
+    "generatedAt": "2026-02-25T10:33:16.731509",
     "totalEntries": 8,
     "lastScraped": "2026-02-24 00:07:16",
     "source": "Zwift Games 2026 API",
@@ -39,12 +39,12 @@
       "rank": 4479,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
-      "timeMs": 1508232,
-      "timeFormatted": "25:08.232",
+      "timeMs": 3290085,
+      "timeFormatted": "54:50.085",
       "zrs": 506.85,
       "gender": "MALE",
       "countryCode": 124,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
       "participationData": {
@@ -55,6 +55,13 @@
             "bestTime_eventId": 5429253,
             "bestTime_eventSubgroupId": 6933516,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1781853,
+            "bestTime_activityId": "2081379859321356336",
+            "bestTime_eventId": "5429498",
+            "bestTime_eventSubgroupId": "6934706"
           }
         ]
       }
