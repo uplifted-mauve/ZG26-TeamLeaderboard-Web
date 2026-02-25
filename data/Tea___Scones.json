@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-23T22:59:50.904121",
+    "generatedAt": "2026-02-24T15:20:35.757647",
     "totalEntries": 21,
     "lastScraped": "2026-02-24 00:07:16",
     "source": "Zwift Games 2026 API",
@@ -96,12 +96,12 @@
       "rank": 3314,
       "firstName": "Sean",
       "lastName": "Waples [T&S]",
-      "timeMs": 1496373,
-      "timeFormatted": "24:56.373",
+      "timeMs": 3159742,
+      "timeFormatted": "52:39.742",
       "zrs": 560.45,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/6ea3683c-2823039",
       "participationData": {
@@ -112,6 +112,13 @@
             "bestTime_eventId": 5429265,
             "bestTime_eventSubgroupId": 6933577,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1663369,
+            "bestTime_activityId": "2080684390769229824",
+            "bestTime_eventId": "5429409",
+            "bestTime_eventSubgroupId": "6934264"
           }
         ]
       }
@@ -371,12 +378,12 @@
       "rank": 22824,
       "firstName": "Sonderegger   ",
       "lastName": "Fredi🥷[EVO] CRP",
-      "timeMs": 1746146,
-      "timeFormatted": "29:06.146",
+      "timeMs": 3451204,
+      "timeFormatted": "57:31.204",
       "zrs": 704.96,
       "gender": "MALE",
       "countryCode": 756,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/2639f600-2360623",
       "participationData": {
@@ -387,6 +394,13 @@
             "bestTime_eventId": 5430682,
             "bestTime_eventSubgroupId": 6938618,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1705058,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429466",
+            "bestTime_eventSubgroupId": null
           }
         ]
       }
@@ -523,7 +537,7 @@
       "lastName": "Ramkellyn [T&S]",
       "timeMs": 1563635,
       "timeFormatted": "26:03.635",
-      "zrs": 2067.17,
+      "zrs": 2067.55,
       "gender": "MALE",
       "countryCode": 826,
       "eventCount": 1,
