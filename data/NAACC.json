@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-26T07:31:17.432273",
+    "generatedAt": "2026-02-26T14:23:22.105855",
     "totalEntries": 9,
-    "lastScraped": "2026-02-26T12:31:06.432906+00:00",
+    "lastScraped": "2026-02-26T19:23:10.373698+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true
@@ -14,12 +14,12 @@
       "rank": 772,
       "firstName": "Steve",
       "lastName": "Miller",
-      "timeMs": 1407259,
-      "timeFormatted": "23:27.259",
+      "timeMs": 2968829,
+      "timeFormatted": "49:28.829",
       "zrs": 788.04,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/72875d76-3293905",
       "participationData": {
@@ -30,6 +30,13 @@
             "bestTime_eventId": 5430649,
             "bestTime_eventSubgroupId": 6938585,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1561570,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5430461",
+            "bestTime_eventSubgroupId": null
           }
         ]
       }
@@ -128,12 +135,12 @@
       "rank": 15309,
       "firstName": "Mike",
       "lastName": "Puglielli",
-      "timeMs": 1650363,
-      "timeFormatted": "27:30.363",
+      "timeMs": 3603536,
+      "timeFormatted": "60:03.536",
       "zrs": 315.2,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025",
       "participationData": {
@@ -144,6 +151,13 @@
             "bestTime_eventId": 5429231,
             "bestTime_eventSubgroupId": 6933408,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1953173,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429481",
+            "bestTime_eventSubgroupId": null
           }
         ]
       }
@@ -178,12 +192,12 @@
       "rank": 22808,
       "firstName": "vincent",
       "lastName": "allard[T&S]",
-      "timeMs": 1745843,
-      "timeFormatted": "29:05.843",
+      "timeMs": 3626935,
+      "timeFormatted": "60:26.935",
       "zrs": 267.41,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/87df2a5c-2317099",
       "participationData": {
@@ -194,6 +208,13 @@
             "bestTime_eventId": 5429257,
             "bestTime_eventSubgroupId": 6933539,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1881092,
+            "bestTime_activityId": "2082225931438538768",
+            "bestTime_eventId": "5429481",
+            "bestTime_eventSubgroupId": "6934622"
           }
         ]
       }
