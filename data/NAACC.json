@@ -1,12 +1,13 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-26T14:23:22.105855",
+    "generatedAt": "2026-02-26T17:38:29.853252",
     "totalEntries": 9,
     "lastScraped": "2026-02-26T19:23:10.373698+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
-    "filteredByProfileIds": true
+    "filteredByProfileIds": true,
+    "includesHR": true
   },
   "entries": [
     {
@@ -39,6 +40,14 @@
             "bestTime_eventSubgroupId": null
           }
         ]
+      },
+      "avgHr": 163.0,
+      "maxHr": 175,
+      "hrByStage": {
+        "12409": {
+          "avgHr": 163.0,
+          "maxHr": 175
+        }
       }
     },
     {
@@ -71,6 +80,14 @@
             "bestTime_eventSubgroupId": null
           }
         ]
+      },
+      "avgHr": 141.0,
+      "maxHr": 168,
+      "hrByStage": {
+        "12409": {
+          "avgHr": 141.0,
+          "maxHr": 168
+        }
       }
     },
     {
@@ -103,6 +120,14 @@
             "bestTime_eventSubgroupId": "6934706"
           }
         ]
+      },
+      "avgHr": 173.0,
+      "maxHr": 198,
+      "hrByStage": {
+        "12409": {
+          "avgHr": 173.0,
+          "maxHr": 198
+        }
       }
     },
     {
@@ -128,6 +153,14 @@
             "eventSeriesId": 12408
           }
         ]
+      },
+      "avgHr": 163.0,
+      "maxHr": 173,
+      "hrByStage": {
+        "12408": {
+          "avgHr": 163.0,
+          "maxHr": 173
+        }
       }
     },
     {
@@ -160,6 +193,14 @@
             "bestTime_eventSubgroupId": null
           }
         ]
+      },
+      "avgHr": 184.0,
+      "maxHr": null,
+      "hrByStage": {
+        "12409": {
+          "avgHr": 184.0,
+          "maxHr": null
+        }
       }
     },
     {
@@ -185,6 +226,14 @@
             "eventSeriesId": 12408
           }
         ]
+      },
+      "avgHr": 175.0,
+      "maxHr": 190,
+      "hrByStage": {
+        "12408": {
+          "avgHr": 175.0,
+          "maxHr": 190
+        }
       }
     },
     {
@@ -217,6 +266,18 @@
             "bestTime_eventSubgroupId": "6934622"
           }
         ]
+      },
+      "avgHr": 187.5,
+      "maxHr": 202,
+      "hrByStage": {
+        "12408": {
+          "avgHr": 187.0,
+          "maxHr": 202
+        },
+        "12409": {
+          "avgHr": 188.0,
+          "maxHr": null
+        }
       }
     },
     {
@@ -242,7 +303,10 @@
             "eventSeriesId": 12408
           }
         ]
-      }
+      },
+      "avgHr": null,
+      "maxHr": null,
+      "hrByStage": {}
     },
     {
       "profileId": "7872204",
@@ -267,7 +331,10 @@
             "eventSeriesId": 12408
           }
         ]
-      }
+      },
+      "avgHr": null,
+      "maxHr": null,
+      "hrByStage": {}
     }
   ]
 }
