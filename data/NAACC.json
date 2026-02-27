@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-27T07:46:12.317019",
+    "generatedAt": "2026-02-27T08:21:22.191989",
     "totalEntries": 9,
-    "lastScraped": "2026-02-27T12:46:01.480595+00:00",
+    "lastScraped": "2026-02-27 13:10:46",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -129,6 +129,41 @@
           "maxHr": 198
         }
       }
+    },
+    {
+      "profileId": "7975351",
+      "rank": 12817,
+      "firstName": "John",
+      "lastName": "Beckshaw",
+      "timeMs": 4015442,
+      "timeFormatted": "66:55.442",
+      "zrs": 203.7,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 2,
+      "playerType": "NORMAL",
+      "imageUrl": null,
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1882777,
+            "bestTime_activityId": "2076968996007084032",
+            "bestTime_eventId": 5429299,
+            "bestTime_eventSubgroupId": 6933745,
+            "eventSeriesId": 12408
+          },
+          {
+            "bestTimeMs": 2132665,
+            "bestTime_activityId": "2082771230099783728",
+            "bestTime_eventId": 5429485,
+            "bestTime_eventSubgroupId": 6934643,
+            "eventSeriesId": 12409
+          }
+        ]
+      },
+      "avgHr": null,
+      "maxHr": null,
+      "hrByStage": {}
     },
     {
       "profileId": "7250625",
@@ -279,34 +314,6 @@
           "maxHr": 198
         }
       }
-    },
-    {
-      "profileId": "7975351",
-      "rank": 22882,
-      "firstName": "John",
-      "lastName": "Beckshaw",
-      "timeMs": 1882777,
-      "timeFormatted": "31:22.777",
-      "zrs": 196.07,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 1,
-      "playerType": "NORMAL",
-      "imageUrl": null,
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1882777,
-            "bestTime_activityId": "2076968996007084032",
-            "bestTime_eventId": 5429299,
-            "bestTime_eventSubgroupId": 6933745,
-            "eventSeriesId": 12408
-          }
-        ]
-      },
-      "avgHr": null,
-      "maxHr": null,
-      "hrByStage": {}
     },
     {
       "profileId": "7872204",
