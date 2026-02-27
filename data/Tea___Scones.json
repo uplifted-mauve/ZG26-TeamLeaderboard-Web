@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-26T22:24:16.199167",
+    "generatedAt": "2026-02-27T07:46:12.330041",
     "totalEntries": 18,
-    "lastScraped": "2026-02-27T03:24:05.790845+00:00",
+    "lastScraped": "2026-02-27T12:46:01.480595+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -470,12 +470,12 @@
       "rank": 29734,
       "firstName": "Tim",
       "lastName": "Sharp [T&S]",
-      "timeMs": 1871708,
-      "timeFormatted": "31:11.708",
+      "timeMs": 4296348,
+      "timeFormatted": "71:36.348",
       "zrs": 337.42,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/322b6b23-2719394",
       "participationData": {
@@ -486,6 +486,13 @@
             "bestTime_eventId": 5429288,
             "bestTime_eventSubgroupId": 6933689,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 2424640,
+            "bestTime_activityId": "2082708746059907120",
+            "bestTime_eventId": "5429392",
+            "bestTime_eventSubgroupId": "6934181"
           }
         ]
       }
