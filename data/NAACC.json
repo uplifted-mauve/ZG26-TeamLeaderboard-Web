@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-27T08:21:22.191989",
-    "totalEntries": 9,
-    "lastScraped": "2026-02-27 13:10:46",
+    "generatedAt": "2026-02-27T09:34:23.080763",
+    "totalEntries": 10,
+    "lastScraped": "2026-02-27 14:16:34",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -336,6 +336,34 @@
             "bestTime_eventId": 5429257,
             "bestTime_eventSubgroupId": 6933539,
             "eventSeriesId": 12408
+          }
+        ]
+      },
+      "avgHr": null,
+      "maxHr": null,
+      "hrByStage": {}
+    },
+    {
+      "profileId": "7010065",
+      "rank": 42736,
+      "firstName": "Eric",
+      "lastName": "Puglielli",
+      "timeMs": 2006779,
+      "timeFormatted": "33:26.779",
+      "zrs": 269.99,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/8ac4b210-3152118",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 2006779,
+            "bestTime_activityId": "2082438987049369600",
+            "bestTime_eventId": 5429480,
+            "bestTime_eventSubgroupId": 6934617,
+            "eventSeriesId": 12409
           }
         ]
       },
