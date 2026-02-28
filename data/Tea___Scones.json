@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T07:09:51.292090",
+    "generatedAt": "2026-02-28T09:27:26.796036",
     "totalEntries": 18,
-    "lastScraped": "2026-02-28T12:09:40.115603+00:00",
+    "lastScraped": "2026-02-28T14:27:15.941134+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -231,12 +231,12 @@
       "rank": 6824,
       "firstName": "Tommy",
       "lastName": "Watts (T&S) 🤙🏾",
-      "timeMs": 1552852,
-      "timeFormatted": "25:52.852",
+      "timeMs": 3300391,
+      "timeFormatted": "55:00.391",
       "zrs": 473.17,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/71b0b373-2634887",
       "participationData": {
@@ -247,6 +247,13 @@
             "bestTime_eventId": 5429204,
             "bestTime_eventSubgroupId": 6933272,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1747539,
+            "bestTime_activityId": "2083522053557731344",
+            "bestTime_eventId": "5429371",
+            "bestTime_eventSubgroupId": "6934075"
           }
         ]
       }
