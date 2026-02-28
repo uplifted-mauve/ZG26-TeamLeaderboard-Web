@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T11:44:20.581556",
+    "generatedAt": "2026-02-28T14:33:53.249537",
     "totalEntries": 18,
-    "lastScraped": "2026-02-28T16:44:09.332324+00:00",
+    "lastScraped": "2026-02-28T19:33:35.486580+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -327,12 +327,12 @@
       "rank": 19086,
       "firstName": "David",
       "lastName": "King (T&S)",
-      "timeMs": 1700039,
-      "timeFormatted": "28:20.039",
+      "timeMs": 3602041,
+      "timeFormatted": "60:02.041",
       "zrs": 273.27,
       "gender": "MALE",
       "countryCode": 372,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/5a6a65b4-1504630",
       "participationData": {
@@ -343,6 +343,13 @@
             "bestTime_eventId": 5429291,
             "bestTime_eventSubgroupId": 6933705,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1902002,
+            "bestTime_activityId": "2083669784368513072",
+            "bestTime_eventId": "5429427",
+            "bestTime_eventSubgroupId": "6934357"
           }
         ]
       }
