@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T15:05:52.192708",
+    "generatedAt": "2026-02-28T15:44:55.957442",
     "totalEntries": 18,
-    "lastScraped": "2026-02-28T19:36:06.246262+00:00",
+    "lastScraped": "2026-02-28 20:38:54",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -419,6 +419,31 @@
       }
     },
     {
+      "profileId": "1860002",
+      "rank": 22875,
+      "firstName": "Martin",
+      "lastName": "Ramkellyn [T&S]",
+      "timeMs": 1563635,
+      "timeFormatted": "26:03.635",
+      "zrs": 766.93,
+      "gender": "MALE",
+      "countryCode": 826,
+      "eventCount": 1,
+      "playerType": "NORMAL",
+      "imageUrl": null,
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1563635,
+            "bestTime_activityId": "2080048337477697568",
+            "bestTime_eventId": 5430705,
+            "bestTime_eventSubgroupId": 6938641,
+            "eventSeriesId": 12409
+          }
+        ]
+      }
+    },
+    {
       "profileId": "7240535",
       "rank": 22879,
       "firstName": "Seb",
@@ -535,31 +560,6 @@
             "bestTime_activityId": "2083010637549535280",
             "bestTime_eventId": "5429415",
             "bestTime_eventSubgroupId": "6934296"
-          }
-        ]
-      }
-    },
-    {
-      "profileId": "1860002",
-      "rank": null,
-      "firstName": "Martin",
-      "lastName": "Ramkellyn [T&S]",
-      "timeMs": 1563635,
-      "timeFormatted": "26:03.635",
-      "zrs": 2067.49,
-      "gender": "MALE",
-      "countryCode": 826,
-      "eventCount": 1,
-      "playerType": null,
-      "imageUrl": null,
-      "participationData": {
-        "series": [
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 1563635,
-            "bestTime_activityId": "2080048337477697568",
-            "bestTime_eventId": "5430705",
-            "bestTime_eventSubgroupId": "6938641"
           }
         ]
       }
