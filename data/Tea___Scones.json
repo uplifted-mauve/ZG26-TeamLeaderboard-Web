@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T14:36:16.920112",
+    "generatedAt": "2026-02-28T15:05:52.192708",
     "totalEntries": 18,
     "lastScraped": "2026-02-28T19:36:06.246262+00:00",
     "source": "Zwift Games 2026 API",
@@ -110,8 +110,8 @@
       "rank": 3950,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
-      "timeMs": 3290085,
-      "timeFormatted": "54:50.085",
+      "timeMs": 3258888,
+      "timeFormatted": "54:18.888",
       "zrs": 515.25,
       "gender": "MALE",
       "countryCode": 124,
@@ -128,10 +128,10 @@
             "eventSeriesId": 12408
           },
           {
-            "bestTimeMs": 1781853,
-            "bestTime_activityId": "2081379859321356336",
-            "bestTime_eventId": 5429498,
-            "bestTime_eventSubgroupId": 6934706,
+            "bestTimeMs": 1750656,
+            "bestTime_activityId": "2083674013275521056",
+            "bestTime_eventId": "5429427",
+            "bestTime_eventSubgroupId": "6934355",
             "eventSeriesId": 12409
           }
         ]
@@ -512,8 +512,8 @@
       "rank": 29734,
       "firstName": "Tim",
       "lastName": "Sharp [T&S]",
-      "timeMs": 4296348,
-      "timeFormatted": "71:36.348",
+      "timeMs": 3950036,
+      "timeFormatted": "65:50.036",
       "zrs": 337.42,
       "gender": "MALE",
       "countryCode": 826,
@@ -531,10 +531,10 @@
           },
           {
             "eventSeriesId": 12409,
-            "bestTimeMs": 2424640,
-            "bestTime_activityId": "2082708746059907120",
-            "bestTime_eventId": "5429392",
-            "bestTime_eventSubgroupId": "6934181"
+            "bestTimeMs": 2078328,
+            "bestTime_activityId": "2083010637549535280",
+            "bestTime_eventId": "5429415",
+            "bestTime_eventSubgroupId": "6934296"
           }
         ]
       }
