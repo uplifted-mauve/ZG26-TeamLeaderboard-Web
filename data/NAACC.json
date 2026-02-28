@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-27T12:30:15.675238",
+    "generatedAt": "2026-02-27T19:27:36.657467",
     "totalEntries": 10,
-    "lastScraped": "2026-02-27T17:29:02.509393+00:00",
+    "lastScraped": "2026-02-28T00:27:25.685337+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -52,12 +52,12 @@
     },
     {
       "profileId": "68303",
-      "rank": 3688,
+      "rank": 3306,
       "firstName": "Ryan",
       "lastName": "Dobbins",
       "timeMs": 3253421,
       "timeFormatted": "54:13.421",
-      "zrs": 404.05,
+      "zrs": 409.05,
       "gender": "MALE",
       "countryCode": 840,
       "eventCount": 2,
@@ -73,11 +73,11 @@
             "eventSeriesId": 12408
           },
           {
-            "eventSeriesId": 12409,
             "bestTimeMs": 1730281,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5429383",
-            "bestTime_eventSubgroupId": null
+            "bestTime_activityId": "2081441060130684928",
+            "bestTime_eventId": 5429383,
+            "bestTime_eventSubgroupId": 6934135,
+            "eventSeriesId": 12409
           }
         ]
       },
@@ -92,12 +92,12 @@
     },
     {
       "profileId": "2805084",
-      "rank": 4479,
+      "rank": 3950,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
       "timeMs": 3290085,
       "timeFormatted": "54:50.085",
-      "zrs": 506.85,
+      "zrs": 515.25,
       "gender": "MALE",
       "countryCode": 124,
       "eventCount": 2,
@@ -113,11 +113,11 @@
             "eventSeriesId": 12408
           },
           {
-            "eventSeriesId": 12409,
             "bestTimeMs": 1781853,
             "bestTime_activityId": "2081379859321356336",
-            "bestTime_eventId": "5429498",
-            "bestTime_eventSubgroupId": "6934706"
+            "bestTime_eventId": 5429498,
+            "bestTime_eventSubgroupId": 6934706,
+            "eventSeriesId": 12409
           }
         ]
       },
@@ -127,6 +127,86 @@
         "12409": {
           "avgHr": 173.0,
           "maxHr": 198
+        }
+      }
+    },
+    {
+      "profileId": "7064924",
+      "rank": 9294,
+      "firstName": "Mike",
+      "lastName": "Puglielli",
+      "timeMs": 3603536,
+      "timeFormatted": "60:03.536",
+      "zrs": 313.22,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 2,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1650363,
+            "bestTime_activityId": "2077937165496500240",
+            "bestTime_eventId": 5429231,
+            "bestTime_eventSubgroupId": 6933408,
+            "eventSeriesId": 12408
+          },
+          {
+            "bestTimeMs": 1953173,
+            "bestTime_activityId": "2082225517569785904",
+            "bestTime_eventId": 5429481,
+            "bestTime_eventSubgroupId": 6934622,
+            "eventSeriesId": 12409
+          }
+        ]
+      },
+      "avgHr": 184.0,
+      "maxHr": 193,
+      "hrByStage": {
+        "12409": {
+          "avgHr": 184.0,
+          "maxHr": 193
+        }
+      }
+    },
+    {
+      "profileId": "2898234",
+      "rank": 10685,
+      "firstName": "M",
+      "lastName": "arie-Andree [T&S]",
+      "timeMs": 3706305,
+      "timeFormatted": "61:46.305",
+      "zrs": 273.9,
+      "gender": "FEMALE",
+      "countryCode": 124,
+      "eventCount": 2,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1652572,
+            "bestTime_activityId": "2079289138749669376",
+            "bestTime_eventId": 5429291,
+            "bestTime_eventSubgroupId": 6933705,
+            "eventSeriesId": 12408
+          },
+          {
+            "bestTimeMs": 2053733,
+            "bestTime_activityId": "2082796596612841472",
+            "bestTime_eventId": 5429380,
+            "bestTime_eventSubgroupId": 6934122,
+            "eventSeriesId": 12409
+          }
+        ]
+      },
+      "avgHr": 173.0,
+      "maxHr": 183,
+      "hrByStage": {
+        "12409": {
+          "avgHr": 173.0,
+          "maxHr": 183
         }
       }
     },
@@ -195,86 +275,6 @@
         "12408": {
           "avgHr": 163.0,
           "maxHr": 173
-        }
-      }
-    },
-    {
-      "profileId": "7064924",
-      "rank": 15309,
-      "firstName": "Mike",
-      "lastName": "Puglielli",
-      "timeMs": 3603536,
-      "timeFormatted": "60:03.536",
-      "zrs": 315.2,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 2,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1650363,
-            "bestTime_activityId": "2077937165496500240",
-            "bestTime_eventId": 5429231,
-            "bestTime_eventSubgroupId": 6933408,
-            "eventSeriesId": 12408
-          },
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 1953173,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5429481",
-            "bestTime_eventSubgroupId": null
-          }
-        ]
-      },
-      "avgHr": 184.0,
-      "maxHr": 193,
-      "hrByStage": {
-        "12409": {
-          "avgHr": 184.0,
-          "maxHr": 193
-        }
-      }
-    },
-    {
-      "profileId": "2898234",
-      "rank": 15437,
-      "firstName": "M",
-      "lastName": "arie-Andree [T&S]",
-      "timeMs": 3706305,
-      "timeFormatted": "61:46.305",
-      "zrs": 268.77,
-      "gender": "FEMALE",
-      "countryCode": 124,
-      "eventCount": 2,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1652572,
-            "bestTime_activityId": "2079289138749669376",
-            "bestTime_eventId": 5429291,
-            "bestTime_eventSubgroupId": 6933705,
-            "eventSeriesId": 12408
-          },
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 2053733,
-            "bestTime_activityId": "2082796596612841472",
-            "bestTime_eventId": "5429380",
-            "bestTime_eventSubgroupId": "6934122"
-          }
-        ]
-      },
-      "avgHr": 173.0,
-      "maxHr": 183,
-      "hrByStage": {
-        "12409": {
-          "avgHr": 173.0,
-          "maxHr": 183
         }
       }
     },
