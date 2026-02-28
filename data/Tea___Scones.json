@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T09:27:26.796036",
+    "generatedAt": "2026-02-28T11:44:20.581556",
     "totalEntries": 18,
-    "lastScraped": "2026-02-28T14:27:15.941134+00:00",
+    "lastScraped": "2026-02-28T16:44:09.332324+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -448,12 +448,12 @@
       "rank": 23224,
       "firstName": "Nev",
       "lastName": "Spowage [T&S]",
-      "timeMs": 1751572,
-      "timeFormatted": "29:11.572",
+      "timeMs": 3747555,
+      "timeFormatted": "62:27.555",
       "zrs": 237.24,
       "gender": "MALE",
       "countryCode": 902,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/4c816a57-228765",
       "participationData": {
@@ -464,6 +464,13 @@
             "bestTime_eventId": 5429292,
             "bestTime_eventSubgroupId": 6933710,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1995983,
+            "bestTime_activityId": "2083585404702851120",
+            "bestTime_eventId": "5429421",
+            "bestTime_eventSubgroupId": "6934327"
           }
         ]
       }
