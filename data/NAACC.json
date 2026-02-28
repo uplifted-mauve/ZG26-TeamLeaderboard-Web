@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T15:44:55.943678",
+    "generatedAt": "2026-02-28T18:57:05.748645",
     "totalEntries": 10,
-    "lastScraped": "2026-02-28 20:38:54",
+    "lastScraped": "2026-02-28T23:56:54.360031+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -92,12 +92,12 @@
     },
     {
       "profileId": "2805084",
-      "rank": 3950,
+      "rank": 3685,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
       "timeMs": 3258888,
       "timeFormatted": "54:18.888",
-      "zrs": 515.25,
+      "zrs": 523.03,
       "gender": "MALE",
       "countryCode": 124,
       "eventCount": 2,
@@ -115,8 +115,8 @@
           {
             "bestTimeMs": 1750656,
             "bestTime_activityId": "2083674013275521056",
-            "bestTime_eventId": "5429427",
-            "bestTime_eventSubgroupId": "6934355",
+            "bestTime_eventId": 5429427,
+            "bestTime_eventSubgroupId": 6934355,
             "eventSeriesId": 12409
           }
         ]
@@ -250,12 +250,12 @@
       "rank": 13055,
       "firstName": "Alex",
       "lastName": "Land",
-      "timeMs": 1616769,
-      "timeFormatted": "26:56.769",
+      "timeMs": 3419529,
+      "timeFormatted": "56:59.529",
       "zrs": 395.14,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/bbdc304b-3422796",
       "participationData": {
@@ -266,15 +266,26 @@
             "bestTime_eventId": 5429257,
             "bestTime_eventSubgroupId": 6933537,
             "eventSeriesId": 12408
+          },
+          {
+            "eventSeriesId": 12409,
+            "bestTimeMs": 1802760,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429393",
+            "bestTime_eventSubgroupId": null
           }
         ]
       },
-      "avgHr": 163.0,
+      "avgHr": 161.0,
       "maxHr": 173,
       "hrByStage": {
         "12408": {
           "avgHr": 163.0,
           "maxHr": 173
+        },
+        "12409": {
+          "avgHr": 159.0,
+          "maxHr": 169
         }
       }
     },
