@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-01T12:39:57.728363",
+    "generatedAt": "2026-03-01T15:59:17.957948",
     "totalEntries": 18,
-    "lastScraped": "2026-03-01T17:39:46.087180+00:00",
+    "lastScraped": "2026-03-01T20:59:06.366101+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -366,8 +366,8 @@
       "rank": 12440,
       "firstName": "M",
       "lastName": "arie-Andree [T&S]",
-      "timeMs": 3706305,
-      "timeFormatted": "61:46.305",
+      "timeMs": 3546621,
+      "timeFormatted": "59:06.621",
       "zrs": 273.9,
       "gender": "FEMALE",
       "countryCode": 124,
@@ -384,10 +384,10 @@
             "eventSeriesId": 12408
           },
           {
-            "bestTimeMs": 2053733,
-            "bestTime_activityId": "2082796596612841472",
-            "bestTime_eventId": 5429380,
-            "bestTime_eventSubgroupId": 6934122,
+            "bestTimeMs": 1894049,
+            "bestTime_activityId": "2084428111377629232",
+            "bestTime_eventId": "5429455",
+            "bestTime_eventSubgroupId": "6934493",
             "eventSeriesId": 12409
           }
         ]
