@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T19:57:02.097739",
+    "generatedAt": "2026-03-01T08:54:37.173002",
     "totalEntries": 18,
-    "lastScraped": "2026-03-01T00:56:51.022246+00:00",
+    "lastScraped": "2026-03-01T13:54:26.055361+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -203,12 +203,12 @@
     },
     {
       "profileId": "685362",
-      "rank": 5693,
+      "rank": 6460,
       "firstName": "C",
       "lastName": "P [T&S]",
       "timeMs": 3389261,
       "timeFormatted": "56:29.261",
-      "zrs": 467.3,
+      "zrs": 482.12,
       "gender": "MALE",
       "countryCode": 826,
       "eventCount": 2,
@@ -224,11 +224,11 @@
             "eventSeriesId": 12408
           },
           {
-            "eventSeriesId": 12409,
             "bestTimeMs": 1844927,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5429488",
-            "bestTime_eventSubgroupId": null
+            "bestTime_activityId": "2083823852831375376",
+            "bestTime_eventId": 5429488,
+            "bestTime_eventSubgroupId": 6934656,
+            "eventSeriesId": 12409
           }
         ]
       }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-02-28T19:57:02.084317",
+    "generatedAt": "2026-03-01T08:54:37.159250",
     "totalEntries": 10,
-    "lastScraped": "2026-03-01T00:56:51.022246+00:00",
+    "lastScraped": "2026-03-01T13:54:26.055361+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -131,6 +131,50 @@
       }
     },
     {
+      "profileId": "7250625",
+      "rank": 7065,
+      "firstName": "Alex",
+      "lastName": "Land",
+      "timeMs": 3419529,
+      "timeFormatted": "56:59.529",
+      "zrs": 426.68,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 2,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/bbdc304b-3422796",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1616769,
+            "bestTime_activityId": "2079958700084199456",
+            "bestTime_eventId": 5429257,
+            "bestTime_eventSubgroupId": 6933537,
+            "eventSeriesId": 12408
+          },
+          {
+            "bestTimeMs": 1802760,
+            "bestTime_activityId": "2083763795573866496",
+            "bestTime_eventId": 5429393,
+            "bestTime_eventSubgroupId": 6934185,
+            "eventSeriesId": 12409
+          }
+        ]
+      },
+      "avgHr": 161.0,
+      "maxHr": 173,
+      "hrByStage": {
+        "12408": {
+          "avgHr": 163.0,
+          "maxHr": 173
+        },
+        "12409": {
+          "avgHr": 159.0,
+          "maxHr": 169
+        }
+      }
+    },
+    {
       "profileId": "7064924",
       "rank": 9294,
       "firstName": "Mike",
@@ -244,50 +288,6 @@
       "avgHr": null,
       "maxHr": null,
       "hrByStage": {}
-    },
-    {
-      "profileId": "7250625",
-      "rank": 13055,
-      "firstName": "Alex",
-      "lastName": "Land",
-      "timeMs": 3419529,
-      "timeFormatted": "56:59.529",
-      "zrs": 395.14,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 2,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/bbdc304b-3422796",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1616769,
-            "bestTime_activityId": "2079958700084199456",
-            "bestTime_eventId": 5429257,
-            "bestTime_eventSubgroupId": 6933537,
-            "eventSeriesId": 12408
-          },
-          {
-            "eventSeriesId": 12409,
-            "bestTimeMs": 1802760,
-            "bestTime_activityId": null,
-            "bestTime_eventId": "5429393",
-            "bestTime_eventSubgroupId": null
-          }
-        ]
-      },
-      "avgHr": 161.0,
-      "maxHr": 173,
-      "hrByStage": {
-        "12408": {
-          "avgHr": 163.0,
-          "maxHr": 173
-        },
-        "12409": {
-          "avgHr": 159.0,
-          "maxHr": 169
-        }
-      }
     },
     {
       "profileId": "719512",
