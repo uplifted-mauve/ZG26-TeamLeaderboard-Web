@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-03T08:24:47.481141",
+    "generatedAt": "2026-03-03T14:56:52.408233",
     "totalEntries": 18,
-    "lastScraped": "2026-03-03T13:24:28.705506+00:00",
+    "lastScraped": "2026-03-03T19:56:32.847010+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -15,7 +15,6 @@
       "firstName": "Scott",
       "lastName": "Farrow [T&S]",
       "timeMs": 3103686,
-      "timeFormatted": "51:43.686",
       "zrs": 536.77,
       "gender": "MALE",
       "countryCode": 826,
@@ -47,7 +46,6 @@
       "firstName": "Sam",
       "lastName": "Leahy (T&S)",
       "timeMs": 3106731,
-      "timeFormatted": "51:46.731",
       "zrs": 544.82,
       "gender": "MALE",
       "countryCode": 826,
@@ -79,7 +77,6 @@
       "firstName": "Sean",
       "lastName": "Waples [T&S]",
       "timeMs": 3159742,
-      "timeFormatted": "52:39.742",
       "zrs": 564.81,
       "gender": "MALE",
       "countryCode": 840,
@@ -111,7 +108,6 @@
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
       "timeMs": 3258888,
-      "timeFormatted": "54:18.888",
       "zrs": 523.03,
       "gender": "MALE",
       "countryCode": 124,
@@ -138,44 +134,11 @@
       }
     },
     {
-      "profileId": "5067167",
-      "rank": 4474,
-      "firstName": "Tommy",
-      "lastName": "Watts (T&S) 🤙🏾",
-      "timeMs": 3300391,
-      "timeFormatted": "55:00.391",
-      "zrs": 478.9,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 2,
-      "playerType": "NORMAL",
-      "imageUrl": "https://static-cdn.zwift.com/prod/profile/71b0b373-2634887",
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1552852,
-            "bestTime_activityId": "2078447625245294592",
-            "bestTime_eventId": 5429204,
-            "bestTime_eventSubgroupId": 6933272,
-            "eventSeriesId": 12408
-          },
-          {
-            "bestTimeMs": 1747539,
-            "bestTime_activityId": "2083522053557731344",
-            "bestTime_eventId": 5429371,
-            "bestTime_eventSubgroupId": 6934075,
-            "eventSeriesId": 12409
-          }
-        ]
-      }
-    },
-    {
       "profileId": "5639087",
       "rank": 4502,
       "firstName": "L",
       "lastName": ". (T&S)",
       "timeMs": 3301587,
-      "timeFormatted": "55:01.587",
       "zrs": 560.22,
       "gender": "MALE",
       "countryCode": 840,
@@ -207,7 +170,6 @@
       "firstName": "C",
       "lastName": "P [T&S]",
       "timeMs": 3389261,
-      "timeFormatted": "56:29.261",
       "zrs": 482.12,
       "gender": "MALE",
       "countryCode": 826,
@@ -234,12 +196,42 @@
       }
     },
     {
+      "profileId": "5067167",
+      "rank": 7298,
+      "firstName": "Tommy",
+      "lastName": "Watts (T&S) 🤙🏾",
+      "timeMs": 3300391,
+      "zrs": 478.9,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 2,
+      "playerType": "NORMAL",
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/71b0b373-2634887",
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1552852,
+            "bestTime_activityId": "2078447625245294592",
+            "bestTime_eventId": 5429204,
+            "bestTime_eventSubgroupId": 6933272,
+            "eventSeriesId": 12408
+          },
+          {
+            "bestTimeMs": 1747539,
+            "bestTime_activityId": "2083522053557731344",
+            "bestTime_eventId": 5429371,
+            "bestTime_eventSubgroupId": 6934075,
+            "eventSeriesId": 12409
+          }
+        ]
+      }
+    },
+    {
       "profileId": "1391588",
       "rank": 7675,
       "firstName": "Bryan",
       "lastName": "Culliford [T&S]",
       "timeMs": 3447178,
-      "timeFormatted": "57:27.178",
       "zrs": 436.12,
       "gender": "MALE",
       "countryCode": 901,
@@ -271,7 +263,6 @@
       "firstName": "Charlie",
       "lastName": "Bendall (T&S)",
       "timeMs": 3501758,
-      "timeFormatted": "58:21.758",
       "zrs": 332.18,
       "gender": "MALE",
       "countryCode": 826,
@@ -303,7 +294,6 @@
       "firstName": "David",
       "lastName": "King (T&S)",
       "timeMs": 3602041,
-      "timeFormatted": "60:02.041",
       "zrs": 278.04,
       "gender": "MALE",
       "countryCode": 372,
@@ -335,7 +325,6 @@
       "firstName": "vincent",
       "lastName": "allard[T&S]",
       "timeMs": 3626935,
-      "timeFormatted": "60:26.935",
       "zrs": 267.09,
       "gender": "MALE",
       "countryCode": 840,
@@ -367,7 +356,6 @@
       "firstName": "M",
       "lastName": "arie-Andree [T&S]",
       "timeMs": 3546621,
-      "timeFormatted": "59:06.621",
       "zrs": 273.9,
       "gender": "FEMALE",
       "countryCode": 124,
@@ -399,7 +387,6 @@
       "firstName": "Nev",
       "lastName": "Spowage [T&S]",
       "timeMs": 3747555,
-      "timeFormatted": "62:27.555",
       "zrs": 246.85,
       "gender": "MALE",
       "countryCode": 902,
@@ -431,7 +418,6 @@
       "firstName": "Seb",
       "lastName": "Rose",
       "timeMs": 3762230,
-      "timeFormatted": "62:42.230",
       "zrs": 366.29,
       "gender": "MALE",
       "countryCode": 124,
@@ -463,7 +449,6 @@
       "firstName": "Steve",
       "lastName": "Culliford [T&S]",
       "timeMs": 3874638,
-      "timeFormatted": "64:34.638",
       "zrs": 337.27,
       "gender": "MALE",
       "countryCode": 901,
@@ -495,7 +480,6 @@
       "firstName": "Tim",
       "lastName": "Sharp [T&S]",
       "timeMs": 3950036,
-      "timeFormatted": "65:50.036",
       "zrs": 325.25,
       "gender": "MALE",
       "countryCode": 826,
@@ -527,7 +511,6 @@
       "firstName": "Martin",
       "lastName": "Ramkellyn [T&S]",
       "timeMs": 3540050,
-      "timeFormatted": "59:00.050",
       "zrs": 766.93,
       "gender": "MALE",
       "countryCode": 826,
@@ -559,7 +542,6 @@
       "firstName": "Wayne",
       "lastName": "F - TWR  (T&S)",
       "timeMs": 2100935,
-      "timeFormatted": "35:00.935",
       "zrs": 119.98,
       "gender": "MALE",
       "countryCode": 826,

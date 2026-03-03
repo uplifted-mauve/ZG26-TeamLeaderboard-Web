@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-03T08:24:47.467262",
+    "generatedAt": "2026-03-03T14:56:52.395121",
     "totalEntries": 10,
-    "lastScraped": "2026-03-03T13:24:28.705506+00:00",
+    "lastScraped": "2026-03-03T19:56:32.847010+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -16,7 +16,6 @@
       "firstName": "Steve",
       "lastName": "Miller",
       "timeMs": 2968829,
-      "timeFormatted": "49:28.829",
       "zrs": 788.54,
       "gender": "MALE",
       "countryCode": 840,
@@ -51,12 +50,52 @@
       }
     },
     {
+      "profileId": "7975351",
+      "rank": 2938,
+      "firstName": "John",
+      "lastName": "Beckshaw",
+      "timeMs": 7080154,
+      "zrs": 204.66,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 3,
+      "playerType": "NORMAL",
+      "imageUrl": null,
+      "participationData": {
+        "series": [
+          {
+            "bestTimeMs": 1882777,
+            "bestTime_activityId": "2076968996007084032",
+            "bestTime_eventId": 5429299,
+            "bestTime_eventSubgroupId": 6933745,
+            "eventSeriesId": 12408
+          },
+          {
+            "bestTimeMs": 2132665,
+            "bestTime_activityId": "2082771230099783728",
+            "bestTime_eventId": 5429485,
+            "bestTime_eventSubgroupId": 6934643,
+            "eventSeriesId": 12409
+          },
+          {
+            "bestTimeMs": 3064712,
+            "bestTime_activityId": "2085668574520688688",
+            "bestTime_eventId": 5429683,
+            "bestTime_eventSubgroupId": 6935598,
+            "eventSeriesId": 12410
+          }
+        ]
+      },
+      "avgHr": null,
+      "maxHr": null,
+      "hrByStage": {}
+    },
+    {
       "profileId": "2805084",
       "rank": 3685,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
       "timeMs": 3258888,
-      "timeFormatted": "54:18.888",
       "zrs": 523.03,
       "gender": "MALE",
       "countryCode": 124,
@@ -96,7 +135,6 @@
       "firstName": "Ryan",
       "lastName": "Dobbins",
       "timeMs": 3253421,
-      "timeFormatted": "54:13.421",
       "zrs": 409.05,
       "gender": "MALE",
       "countryCode": 840,
@@ -136,7 +174,6 @@
       "firstName": "Alex",
       "lastName": "Land",
       "timeMs": 3419529,
-      "timeFormatted": "56:59.529",
       "zrs": 426.68,
       "gender": "MALE",
       "countryCode": 840,
@@ -180,7 +217,6 @@
       "firstName": "Mike",
       "lastName": "Puglielli",
       "timeMs": 3603536,
-      "timeFormatted": "60:03.536",
       "zrs": 313.22,
       "gender": "MALE",
       "countryCode": 840,
@@ -220,7 +256,6 @@
       "firstName": "vincent",
       "lastName": "allard[T&S]",
       "timeMs": 3626935,
-      "timeFormatted": "60:26.935",
       "zrs": 267.09,
       "gender": "MALE",
       "countryCode": 840,
@@ -264,7 +299,6 @@
       "firstName": "M",
       "lastName": "arie-Andree [T&S]",
       "timeMs": 3546621,
-      "timeFormatted": "59:06.621",
       "zrs": 273.9,
       "gender": "FEMALE",
       "countryCode": 124,
@@ -299,47 +333,11 @@
       }
     },
     {
-      "profileId": "7975351",
-      "rank": 16315,
-      "firstName": "John",
-      "lastName": "Beckshaw",
-      "timeMs": 4015442,
-      "timeFormatted": "66:55.442",
-      "zrs": 203.7,
-      "gender": "MALE",
-      "countryCode": 840,
-      "eventCount": 2,
-      "playerType": "NORMAL",
-      "imageUrl": null,
-      "participationData": {
-        "series": [
-          {
-            "bestTimeMs": 1882777,
-            "bestTime_activityId": "2076968996007084032",
-            "bestTime_eventId": 5429299,
-            "bestTime_eventSubgroupId": 6933745,
-            "eventSeriesId": 12408
-          },
-          {
-            "bestTimeMs": 2132665,
-            "bestTime_activityId": "2082771230099783728",
-            "bestTime_eventId": 5429485,
-            "bestTime_eventSubgroupId": 6934643,
-            "eventSeriesId": 12409
-          }
-        ]
-      },
-      "avgHr": null,
-      "maxHr": null,
-      "hrByStage": {}
-    },
-    {
       "profileId": "7872204",
       "rank": 33382,
       "firstName": "Collin",
       "lastName": "McLaughlin",
       "timeMs": 1754458,
-      "timeFormatted": "29:14.458",
       "zrs": 272.31,
       "gender": "MALE",
       "countryCode": 840,
@@ -367,7 +365,6 @@
       "firstName": "Eric",
       "lastName": "Puglielli",
       "timeMs": 2006779,
-      "timeFormatted": "33:26.779",
       "zrs": 269.99,
       "gender": "MALE",
       "countryCode": 840,
