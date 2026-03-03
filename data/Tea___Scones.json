@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-02T10:35:19.669700",
+    "generatedAt": "2026-03-02T19:12:32.610250",
     "totalEntries": 18,
-    "lastScraped": "2026-03-02T15:35:05.512087+00:00",
+    "lastScraped": "2026-03-03T00:12:16.870157+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -526,12 +526,12 @@
       "rank": 22875,
       "firstName": "Martin",
       "lastName": "Ramkellyn [T&S]",
-      "timeMs": 1563635,
-      "timeFormatted": "26:03.635",
+      "timeMs": 3540050,
+      "timeFormatted": "59:00.050",
       "zrs": 766.93,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 1,
+      "eventCount": 2,
       "playerType": "NORMAL",
       "imageUrl": null,
       "participationData": {
@@ -542,6 +542,13 @@
             "bestTime_eventId": 5430705,
             "bestTime_eventSubgroupId": 6938641,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 1976415,
+            "bestTime_activityId": "2085125140487618560",
+            "bestTime_eventId": "5430406",
+            "bestTime_eventSubgroupId": "6938342"
           }
         ]
       }
