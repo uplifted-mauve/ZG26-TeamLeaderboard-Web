@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-04T11:40:24.616268",
+    "generatedAt": "2026-03-04T17:30:22.956139",
     "totalEntries": 10,
-    "lastScraped": "2026-03-04T16:40:02.926829+00:00",
+    "lastScraped": "2026-03-04T22:30:01.002384+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -15,11 +15,11 @@
       "rank": 390,
       "firstName": "Steve",
       "lastName": "Miller",
-      "timeMs": 2968829,
+      "timeMs": 5039354,
       "zrs": 788.54,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/72875d76-3293905",
       "participationData": {
@@ -37,15 +37,26 @@
             "bestTime_eventId": 5430461,
             "bestTime_eventSubgroupId": 6938397,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2070525,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5430697",
+            "bestTime_eventSubgroupId": null
           }
         ]
       },
-      "avgHr": 163.0,
-      "maxHr": 175,
+      "avgHr": 164.5,
+      "maxHr": 182,
       "hrByStage": {
         "12409": {
           "avgHr": 163.0,
           "maxHr": 175
+        },
+        "12410": {
+          "avgHr": 166.0,
+          "maxHr": 182
         }
       }
     },
@@ -138,11 +149,11 @@
       "rank": 3708,
       "firstName": "Ryan",
       "lastName": "Dobbins",
-      "timeMs": 3253421,
+      "timeMs": 5458535,
       "zrs": 409.05,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/e386536e-55764",
       "participationData": {
@@ -160,15 +171,26 @@
             "bestTime_eventId": 5429383,
             "bestTime_eventSubgroupId": 6934135,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2205114,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429559",
+            "bestTime_eventSubgroupId": null
           }
         ]
       },
-      "avgHr": 141.0,
-      "maxHr": 168,
+      "avgHr": 142.0,
+      "maxHr": 170,
       "hrByStage": {
         "12409": {
           "avgHr": 141.0,
           "maxHr": 168
+        },
+        "12410": {
+          "avgHr": 143.0,
+          "maxHr": 170
         }
       }
     },
