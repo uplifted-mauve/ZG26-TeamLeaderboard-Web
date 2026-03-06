@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-06T13:45:12.710586",
+    "generatedAt": "2026-03-06T14:24:03.086410",
     "totalEntries": 10,
-    "lastScraped": "2026-03-06T18:44:50.821255+00:00",
+    "lastScraped": "2026-03-06T19:23:41.523140+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -335,11 +335,11 @@
       "rank": 12440,
       "firstName": "M",
       "lastName": "arie-Andree [T&S]",
-      "timeMs": 3546621,
+      "timeMs": 5977623,
       "zrs": 273.9,
       "gender": "FEMALE",
       "countryCode": 124,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
       "participationData": {
@@ -357,6 +357,13 @@
             "bestTime_eventId": "5429455",
             "bestTime_eventSubgroupId": "6934493",
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2431002,
+            "bestTime_activityId": "2088019771160264752",
+            "bestTime_eventId": "5429570",
+            "bestTime_eventSubgroupId": "6935031"
           }
         ]
       },
@@ -370,6 +377,10 @@
         "12409": {
           "avgHr": 177.0,
           "maxHr": 190
+        },
+        "12410": {
+          "avgHr": 177.0,
+          "maxHr": 183
         }
       }
     },
