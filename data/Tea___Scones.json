@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-06T11:00:32.857409",
+    "generatedAt": "2026-03-06T13:45:12.724819",
     "totalEntries": 18,
-    "lastScraped": "2026-03-06T16:00:09.192563+00:00",
+    "lastScraped": "2026-03-06T18:44:50.821255+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -107,11 +107,11 @@
       "rank": 3685,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
-      "timeMs": 3258888,
+      "timeMs": 5404512,
       "zrs": 523.03,
       "gender": "MALE",
       "countryCode": 124,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
       "participationData": {
@@ -129,6 +129,13 @@
             "bestTime_eventId": 5429427,
             "bestTime_eventSubgroupId": 6934355,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2145624,
+            "bestTime_activityId": "2087992670042456064",
+            "bestTime_eventId": "5429659",
+            "bestTime_eventSubgroupId": "6935475"
           }
         ]
       }
