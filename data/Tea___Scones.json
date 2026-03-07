@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-07T07:01:25.740108",
-    "totalEntries": 18,
-    "lastScraped": "2026-03-07T12:01:03.689729+00:00",
+    "generatedAt": "2026-03-07T16:27:15.282971",
+    "totalEntries": 19,
+    "lastScraped": "2026-03-07T21:26:53.004764+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -207,11 +207,11 @@
       "rank": 7298,
       "firstName": "Tommy",
       "lastName": "Watts (T&S) 🤙🏾",
-      "timeMs": 3300391,
+      "timeMs": 5578586,
       "zrs": 478.9,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/71b0b373-2634887",
       "participationData": {
@@ -229,6 +229,13 @@
             "bestTime_eventId": 5429371,
             "bestTime_eventSubgroupId": 6934075,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2278195,
+            "bestTime_activityId": "2088594420982120480",
+            "bestTime_eventId": "5429674",
+            "bestTime_eventSubgroupId": "6935550"
           }
         ]
       }
@@ -238,11 +245,11 @@
       "rank": 7675,
       "firstName": "Bryan",
       "lastName": "Culliford [T&S]",
-      "timeMs": 3447178,
+      "timeMs": 5837503,
       "zrs": 436.12,
       "gender": "MALE",
       "countryCode": 901,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/6fc38905-767621",
       "participationData": {
@@ -260,6 +267,13 @@
             "bestTime_eventId": 5422284,
             "bestTime_eventSubgroupId": 6924695,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2390325,
+            "bestTime_activityId": "2088628502143189024",
+            "bestTime_eventId": "5429657",
+            "bestTime_eventSubgroupId": "6935466"
           }
         ]
       }
@@ -400,11 +414,11 @@
       "rank": 13071,
       "firstName": "Nev",
       "lastName": "Spowage [T&S]",
-      "timeMs": 3747555,
+      "timeMs": 6373976,
       "zrs": 246.85,
       "gender": "MALE",
       "countryCode": 902,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/4c816a57-228765",
       "participationData": {
@@ -422,6 +436,13 @@
             "bestTime_eventId": 5429421,
             "bestTime_eventSubgroupId": 6934327,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2626421,
+            "bestTime_activityId": "2088598310460882976",
+            "bestTime_eventId": "5429674",
+            "bestTime_eventSubgroupId": "6935552"
           }
         ]
       }
@@ -570,6 +591,30 @@
             "bestTime_eventId": 5429244,
             "bestTime_eventSubgroupId": 6933475,
             "eventSeriesId": 12408
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "7329763",
+      "rank": null,
+      "firstName": "Steve",
+      "lastName": "D",
+      "timeMs": 2467708,
+      "zrs": 1163.21,
+      "gender": "MALE",
+      "countryCode": 826,
+      "eventCount": 1,
+      "playerType": null,
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/ad9117c2-3240556",
+      "participationData": {
+        "series": [
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2467708,
+            "bestTime_activityId": "2088567096442109968",
+            "bestTime_eventId": "5429579",
+            "bestTime_eventSubgroupId": "6935076"
           }
         ]
       }

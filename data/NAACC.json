@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-07T07:01:25.723801",
+    "generatedAt": "2026-03-07T16:27:15.269259",
     "totalEntries": 10,
-    "lastScraped": "2026-03-07T12:01:03.689729+00:00",
+    "lastScraped": "2026-03-07T21:26:53.004764+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -253,11 +253,11 @@
       "rank": 10771,
       "firstName": "Mike",
       "lastName": "Puglielli",
-      "timeMs": 3603536,
+      "timeMs": 6180903,
       "zrs": 313.22,
       "gender": "MALE",
       "countryCode": 840,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/a260e103-3152025",
       "participationData": {
@@ -275,15 +275,26 @@
             "bestTime_eventId": 5429481,
             "bestTime_eventSubgroupId": 6934622,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2577367,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429606",
+            "bestTime_eventSubgroupId": null
           }
         ]
       },
       "avgHr": 184.0,
-      "maxHr": 193,
+      "maxHr": 195,
       "hrByStage": {
         "12409": {
           "avgHr": 184.0,
           "maxHr": 193
+        },
+        "12410": {
+          "avgHr": 184.0,
+          "maxHr": 195
         }
       }
     },
