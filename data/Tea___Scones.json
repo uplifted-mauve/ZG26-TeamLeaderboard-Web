@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-07T21:33:14.644196",
-    "totalEntries": 19,
-    "lastScraped": "2026-03-08T02:32:54.036474+00:00",
+    "generatedAt": "2026-03-08T10:22:33.601028",
+    "totalEntries": 20,
+    "lastScraped": "2026-03-08T14:22:11.282669+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -176,11 +176,11 @@
       "rank": 6460,
       "firstName": "C",
       "lastName": "P [T&S]",
-      "timeMs": 3389261,
+      "timeMs": 5750313,
       "zrs": 482.12,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c9c9645-1325922",
       "participationData": {
@@ -198,6 +198,13 @@
             "bestTime_eventId": 5429488,
             "bestTime_eventSubgroupId": 6934656,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2361052,
+            "bestTime_activityId": "2088989682493816832",
+            "bestTime_eventId": "5429556",
+            "bestTime_eventSubgroupId": "6934960"
           }
         ]
       }
@@ -483,11 +490,11 @@
       "rank": 14771,
       "firstName": "Steve",
       "lastName": "Culliford [T&S]",
-      "timeMs": 3874638,
+      "timeMs": 6817060,
       "zrs": 337.27,
       "gender": "MALE",
       "countryCode": 901,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/ae6661de-1210074",
       "participationData": {
@@ -505,6 +512,13 @@
             "bestTime_eventId": 5429415,
             "bestTime_eventSubgroupId": 6934296,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2942422,
+            "bestTime_activityId": "2089231933195173904",
+            "bestTime_eventId": "5429673",
+            "bestTime_eventSubgroupId": "6935546"
           }
         ]
       }
@@ -514,11 +528,11 @@
       "rank": 15569,
       "firstName": "Tim",
       "lastName": "Sharp [T&S]",
-      "timeMs": 3950036,
+      "timeMs": 7207962,
       "zrs": 325.25,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/322b6b23-2719394",
       "participationData": {
@@ -536,6 +550,13 @@
             "bestTime_eventId": 5429415,
             "bestTime_eventSubgroupId": 6934296,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 3257926,
+            "bestTime_activityId": "2089233325167214608",
+            "bestTime_eventId": "5429673",
+            "bestTime_eventSubgroupId": "6935546"
           }
         ]
       }
@@ -601,7 +622,7 @@
       "firstName": "Steve",
       "lastName": "D",
       "timeMs": 2467708,
-      "zrs": 1164.49,
+      "zrs": 1164.5,
       "gender": "MALE",
       "countryCode": 826,
       "eventCount": 1,
@@ -615,6 +636,30 @@
             "bestTime_activityId": "2088567096442109968",
             "bestTime_eventId": "5429579",
             "bestTime_eventSubgroupId": "6935076"
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "5364779",
+      "rank": null,
+      "firstName": ".",
+      "lastName": " Paul T&S ",
+      "timeMs": 2943939,
+      "zrs": 868.03,
+      "gender": "MALE",
+      "countryCode": null,
+      "eventCount": 1,
+      "playerType": null,
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/4cb682f9-2637343",
+      "participationData": {
+        "series": [
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2943939,
+            "bestTime_activityId": "2089229963390631968",
+            "bestTime_eventId": "5429673",
+            "bestTime_eventSubgroupId": "6935546"
           }
         ]
       }
