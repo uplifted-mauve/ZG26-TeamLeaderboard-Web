@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-13T07:22:12.530527",
+    "generatedAt": "2026-03-13T19:56:47.062304",
     "totalEntries": 21,
-    "lastScraped": "2026-03-13T11:21:51.914756+00:00",
+    "lastScraped": "2026-03-13T23:56:25.527842+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -252,11 +252,11 @@
       "rank": 7675,
       "firstName": "Bryan",
       "lastName": "Culliford [T&S]",
-      "timeMs": 5837503,
+      "timeMs": 9040659,
       "zrs": 436.12,
       "gender": "MALE",
       "countryCode": 901,
-      "eventCount": 3,
+      "eventCount": 4,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/6fc38905-767621",
       "participationData": {
@@ -281,6 +281,13 @@
             "bestTime_activityId": "2088628502143189024",
             "bestTime_eventId": "5429657",
             "bestTime_eventSubgroupId": "6935466"
+          },
+          {
+            "eventSeriesId": 12411,
+            "bestTimeMs": 3203156,
+            "bestTime_activityId": "2093157853815635968",
+            "bestTime_eventId": "5429800",
+            "bestTime_eventSubgroupId": "6936140"
           }
         ]
       }
@@ -383,11 +390,11 @@
       "rank": 12440,
       "firstName": "M",
       "lastName": "arie-Andree [T&S]",
-      "timeMs": 5977623,
+      "timeMs": 9454367,
       "zrs": 273.9,
       "gender": "FEMALE",
       "countryCode": 124,
-      "eventCount": 3,
+      "eventCount": 4,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/f1ff6b49-1530583",
       "participationData": {
@@ -412,6 +419,13 @@
             "bestTime_activityId": "2088019771160264752",
             "bestTime_eventId": "5429570",
             "bestTime_eventSubgroupId": "6935031"
+          },
+          {
+            "eventSeriesId": 12411,
+            "bestTimeMs": 3476744,
+            "bestTime_activityId": "2092942850831417344",
+            "bestTime_eventId": "5429787",
+            "bestTime_eventSubgroupId": "6936077"
           }
         ]
       }
@@ -657,10 +671,10 @@
     {
       "profileId": "5364779",
       "rank": null,
-      "firstName": "Paul",
-      "lastName": "Stephen",
+      "firstName": ".",
+      "lastName": " Paul T&S ",
       "timeMs": 2943939,
-      "zrs": 868.79,
+      "zrs": 870.06,
       "gender": "MALE",
       "countryCode": null,
       "eventCount": 1,
