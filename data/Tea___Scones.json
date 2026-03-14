@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-13T19:56:47.062304",
+    "generatedAt": "2026-03-14T08:13:35.233602",
     "totalEntries": 21,
-    "lastScraped": "2026-03-13T23:56:25.527842+00:00",
+    "lastScraped": "2026-03-14T12:13:12.492777+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -297,11 +297,11 @@
       "rank": 8842,
       "firstName": "Charlie",
       "lastName": "Bendall (T&S)",
-      "timeMs": 3501758,
+      "timeMs": 6685129,
       "zrs": 332.18,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/f951461f-3409479",
       "participationData": {
@@ -319,6 +319,13 @@
             "bestTime_eventId": 5429379,
             "bestTime_eventSubgroupId": 6934116,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12411,
+            "bestTimeMs": 3183371,
+            "bestTime_activityId": "2093580540639707152",
+            "bestTime_eventId": "5429789",
+            "bestTime_eventSubgroupId": "6936086"
           }
         ]
       }
