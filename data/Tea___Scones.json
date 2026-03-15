@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-14T08:13:35.233602",
-    "totalEntries": 21,
-    "lastScraped": "2026-03-14T12:13:12.492777+00:00",
+    "generatedAt": "2026-03-14T20:12:33.890818",
+    "totalEntries": 22,
+    "lastScraped": "2026-03-15T00:12:12.508496+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -480,11 +480,11 @@
       "rank": 13292,
       "firstName": "Seb",
       "lastName": "Rose",
-      "timeMs": 3762230,
+      "timeMs": 6892950,
       "zrs": 366.29,
       "gender": "MALE",
       "countryCode": 124,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/cb41d617-3212892",
       "participationData": {
@@ -502,6 +502,13 @@
             "bestTime_eventId": 5429430,
             "bestTime_eventSubgroupId": 6934371,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12411,
+            "bestTimeMs": 3130720,
+            "bestTime_activityId": "2093792655577202736",
+            "bestTime_eventId": "5429812",
+            "bestTime_eventSubgroupId": "6936201"
           }
         ]
       }
@@ -695,6 +702,30 @@
             "bestTime_activityId": "2089229963390631968",
             "bestTime_eventId": "5429673",
             "bestTime_eventSubgroupId": "6935546"
+          }
+        ]
+      }
+    },
+    {
+      "profileId": "437451",
+      "rank": null,
+      "firstName": "Thomas",
+      "lastName": "Baiter [T&S]",
+      "timeMs": 3662915,
+      "zrs": 681.91,
+      "gender": "MALE",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": null,
+      "imageUrl": "https://static-cdn.zwift.com/prod/profile/57c9db50-253455",
+      "participationData": {
+        "series": [
+          {
+            "eventSeriesId": 12411,
+            "bestTimeMs": 3662915,
+            "bestTime_activityId": "2093792754386616352",
+            "bestTime_eventId": "5429812",
+            "bestTime_eventSubgroupId": "6936202"
           }
         ]
       }
