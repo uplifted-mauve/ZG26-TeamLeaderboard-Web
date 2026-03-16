@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-15T19:49:16.904774",
+    "generatedAt": "2026-03-16T08:11:20.669739",
     "totalEntries": 22,
-    "lastScraped": "2026-03-15T23:48:55.033525+00:00",
+    "lastScraped": "2026-03-16T12:10:58.186792+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -733,7 +733,7 @@
       "firstName": "Thomas",
       "lastName": "Baiter [T&S]",
       "timeMs": 3662915,
-      "zrs": 681.96,
+      "zrs": 681.88,
       "gender": "MALE",
       "countryCode": 840,
       "eventCount": 1,
