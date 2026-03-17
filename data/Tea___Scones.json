@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-16T08:11:20.669739",
+    "generatedAt": "2026-03-16T20:07:03.235159",
     "totalEntries": 22,
-    "lastScraped": "2026-03-16T12:10:58.186792+00:00",
+    "lastScraped": "2026-03-17T00:06:42.001503+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -14,11 +14,11 @@
       "rank": 1235,
       "firstName": "Scott",
       "lastName": "Farrow [T&S]",
-      "timeMs": 3103686,
+      "timeMs": 6289275,
       "zrs": 536.77,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 2,
+      "eventCount": 3,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c43d3b1-653591",
       "participationData": {
@@ -36,6 +36,13 @@
             "bestTime_eventId": 5429379,
             "bestTime_eventSubgroupId": 6934114,
             "eventSeriesId": 12409
+          },
+          {
+            "eventSeriesId": 12411,
+            "bestTimeMs": 3185589,
+            "bestTime_activityId": "2095091878335643648",
+            "bestTime_eventId": "5429844",
+            "bestTime_eventSubgroupId": "6936352"
           }
         ]
       }
@@ -622,11 +629,11 @@
       "rank": 22875,
       "firstName": "Martin",
       "lastName": "Ramkellyn [T&S]",
-      "timeMs": 6130342,
+      "timeMs": 9705310,
       "zrs": 766.93,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 3,
+      "eventCount": 4,
       "playerType": "NORMAL",
       "imageUrl": null,
       "participationData": {
@@ -651,6 +658,13 @@
             "bestTime_activityId": "2090194772797947936",
             "bestTime_eventId": "5430520",
             "bestTime_eventSubgroupId": "6938456"
+          },
+          {
+            "eventSeriesId": 12412,
+            "bestTimeMs": 3574968,
+            "bestTime_activityId": "2095269485232554032",
+            "bestTime_eventId": "5430664",
+            "bestTime_eventSubgroupId": "6938600"
           }
         ]
       }
