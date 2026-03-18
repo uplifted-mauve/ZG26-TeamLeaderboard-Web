@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-18T07:32:39.760089",
+    "generatedAt": "2026-03-18T19:24:18.099485",
     "totalEntries": 22,
-    "lastScraped": "2026-03-18T11:32:18.499308+00:00",
+    "lastScraped": "2026-03-18T23:23:56.502208+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -14,11 +14,11 @@
       "rank": 1235,
       "firstName": "Scott",
       "lastName": "Farrow [T&S]",
-      "timeMs": 6289275,
+      "timeMs": 10452954,
       "zrs": 536.77,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 3,
+      "eventCount": 4,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/8c43d3b1-653591",
       "participationData": {
@@ -43,6 +43,13 @@
             "bestTime_activityId": "2095091878335643648",
             "bestTime_eventId": "5429844",
             "bestTime_eventSubgroupId": "6936352"
+          },
+          {
+            "eventSeriesId": 12412,
+            "bestTimeMs": 4163679,
+            "bestTime_activityId": "2096570430608408624",
+            "bestTime_eventId": "5430006",
+            "bestTime_eventSubgroupId": "6937122"
           }
         ]
       }
@@ -699,7 +706,7 @@
       "firstName": "Steve",
       "lastName": "D",
       "timeMs": 2467708,
-      "zrs": 1164.5,
+      "zrs": 1167.48,
       "gender": "MALE",
       "countryCode": 826,
       "eventCount": 1,
@@ -771,7 +778,7 @@
       "firstName": "Marlon",
       "lastName": "Bruentje",
       "timeMs": 4261317,
-      "zrs": 1220.17,
+      "zrs": 1220.23,
       "gender": "MALE",
       "countryCode": 276,
       "eventCount": 1,
