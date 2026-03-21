@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-21T07:25:45.920694",
+    "generatedAt": "2026-03-21T15:57:15.682268",
     "totalEntries": 10,
-    "lastScraped": "2026-03-21T11:25:24.128164+00:00",
+    "lastScraped": "2026-03-21T19:56:53.892436+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -128,11 +128,11 @@
       "rank": 3685,
       "firstName": "Alex",
       "lastName": "Rose [T&S]",
-      "timeMs": 5404512,
+      "timeMs": 9795106,
       "zrs": 523.03,
       "gender": "MALE",
       "countryCode": 124,
-      "eventCount": 3,
+      "eventCount": 4,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/e343420e-1530588",
       "participationData": {
@@ -157,10 +157,17 @@
             "bestTime_activityId": "2087992670042456064",
             "bestTime_eventId": "5429659",
             "bestTime_eventSubgroupId": "6935475"
+          },
+          {
+            "eventSeriesId": 12412,
+            "bestTimeMs": 4390594,
+            "bestTime_activityId": "2098834579988152336",
+            "bestTime_eventId": "5429882",
+            "bestTime_eventSubgroupId": "6936506"
           }
         ]
       },
-      "avgHr": 172.7,
+      "avgHr": 171.2,
       "maxHr": 198,
       "hrByStage": {
         "12408": {
@@ -174,6 +181,10 @@
         "12410": {
           "avgHr": 173.0,
           "maxHr": 191
+        },
+        "12412": {
+          "avgHr": 167.0,
+          "maxHr": 190
         }
       }
     },
