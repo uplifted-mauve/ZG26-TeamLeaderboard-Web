@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-21T19:11:58.014723",
+    "generatedAt": "2026-03-22T08:16:11.133102",
     "totalEntries": 22,
-    "lastScraped": "2026-03-21T23:11:37.041903+00:00",
+    "lastScraped": "2026-03-22T12:15:48.245760+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -609,11 +609,11 @@
       "rank": 14771,
       "firstName": "Steve",
       "lastName": "Culliford [T&S]",
-      "timeMs": 10505602,
+      "timeMs": 15636258,
       "zrs": 337.27,
       "gender": "MALE",
       "countryCode": 901,
-      "eventCount": 4,
+      "eventCount": 5,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/ae6661de-1210074",
       "participationData": {
@@ -645,6 +645,13 @@
             "bestTime_activityId": "2090833448838135840",
             "bestTime_eventId": "5429798",
             "bestTime_eventSubgroupId": "6936131"
+          },
+          {
+            "eventSeriesId": 12412,
+            "bestTimeMs": 5130656,
+            "bestTime_activityId": "2099349370750124048",
+            "bestTime_eventId": "5429961",
+            "bestTime_eventSubgroupId": "6936903"
           }
         ]
       }
