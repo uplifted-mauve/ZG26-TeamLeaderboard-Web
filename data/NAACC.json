@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-22T08:16:11.117060",
-    "totalEntries": 10,
-    "lastScraped": "2026-03-22T12:15:48.245760+00:00",
+    "generatedAt": "2026-03-22T19:44:09.098962",
+    "totalEntries": 11,
+    "lastScraped": "2026-03-22T23:43:47.274985+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -503,6 +503,38 @@
       "avgHr": null,
       "maxHr": null,
       "hrByStage": {}
+    },
+    {
+      "profileId": "5394386",
+      "rank": null,
+      "firstName": "Chris",
+      "lastName": "Carey",
+      "timeMs": 3828849,
+      "zrs": null,
+      "gender": "M",
+      "countryCode": 840,
+      "eventCount": 1,
+      "playerType": null,
+      "imageUrl": null,
+      "participationData": {
+        "series": [
+          {
+            "eventSeriesId": 12412,
+            "bestTimeMs": 3828849,
+            "bestTime_activityId": null,
+            "bestTime_eventId": "5429902",
+            "bestTime_eventSubgroupId": null
+          }
+        ]
+      },
+      "avgHr": 153.0,
+      "maxHr": 179,
+      "hrByStage": {
+        "12412": {
+          "avgHr": 153.0,
+          "maxHr": 179
+        }
+      }
     }
   ]
 }
