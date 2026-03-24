@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-24T07:30:51.110780",
+    "generatedAt": "2026-03-24T19:50:07.774007",
     "totalEntries": 11,
-    "lastScraped": "2026-03-24T11:30:29.488317+00:00",
+    "lastScraped": "2026-03-24T23:49:45.948287+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -61,7 +61,7 @@
           }
         ]
       },
-      "avgHr": 163.5,
+      "avgHr": 165.4,
       "maxHr": 182,
       "hrByStage": {
         "12409": {
@@ -78,6 +78,10 @@
         },
         "12412": {
           "avgHr": 165.0,
+          "maxHr": 180
+        },
+        "12413": {
+          "avgHr": 173.0,
           "maxHr": 180
         }
       }

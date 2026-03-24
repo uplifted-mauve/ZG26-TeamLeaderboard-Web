@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-03-24T07:30:51.126886",
+    "generatedAt": "2026-03-24T19:50:07.791406",
     "totalEntries": 22,
-    "lastScraped": "2026-03-24T11:30:29.488317+00:00",
+    "lastScraped": "2026-03-24T23:49:45.948287+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -766,8 +766,8 @@
     {
       "profileId": "5364779",
       "rank": null,
-      "firstName": ".",
-      "lastName": " Paul T&S ",
+      "firstName": "Paul",
+      "lastName": "Stephen",
       "timeMs": 2943939,
       "zrs": 907.4,
       "gender": "MALE",
