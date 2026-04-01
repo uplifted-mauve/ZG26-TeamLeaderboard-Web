@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-04-01T07:46:27.094444",
+    "generatedAt": "2026-04-01T19:47:58.889689",
     "totalEntries": 22,
-    "lastScraped": "2026-04-01T11:46:05.614970+00:00",
+    "lastScraped": "2026-04-01T23:47:37.320822+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -59,11 +59,11 @@
       "rank": 1267,
       "firstName": "Sam",
       "lastName": "Leahy (T&S)",
-      "timeMs": 10030046,
+      "timeMs": 12308840,
       "zrs": 544.82,
       "gender": "MALE",
       "countryCode": 826,
-      "eventCount": 4,
+      "eventCount": 5,
       "playerType": "NORMAL",
       "imageUrl": "https://static-cdn.zwift.com/prod/profile/795b29f6-2199025",
       "participationData": {
@@ -95,6 +95,13 @@
             "bestTime_activityId": "2098894466906603552",
             "bestTime_eventId": "5429994",
             "bestTime_eventSubgroupId": "6937066"
+          },
+          {
+            "eventSeriesId": 12410,
+            "bestTimeMs": 2278794,
+            "bestTime_activityId": "2106866939786723328",
+            "bestTime_eventId": "5502731",
+            "bestTime_eventSubgroupId": "7029168"
           }
         ]
       }
@@ -817,7 +824,7 @@
       "firstName": "Marlon",
       "lastName": "Bruentje",
       "timeMs": 4261317,
-      "zrs": 1232.54,
+      "zrs": 1233.46,
       "gender": "MALE",
       "countryCode": 276,
       "eventCount": 1,
