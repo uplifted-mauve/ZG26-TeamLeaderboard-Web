@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-04-04T08:05:45.639032",
+    "generatedAt": "2026-04-04T19:59:01.239164",
     "totalEntries": 11,
-    "lastScraped": "2026-04-04T12:05:22.203074+00:00",
+    "lastScraped": "2026-04-04T23:58:38.988910+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "NAACC",
     "filteredByProfileIds": true,
@@ -15,7 +15,7 @@
       "rank": 390,
       "firstName": "Steve",
       "lastName": "Miller",
-      "timeMs": 11296117,
+      "timeMs": 11282662,
       "zrs": 788.54,
       "gender": "MALE",
       "countryCode": 840,
@@ -54,14 +54,14 @@
           },
           {
             "eventSeriesId": 12412,
-            "bestTimeMs": 3629451,
+            "bestTimeMs": 3615996,
             "bestTime_activityId": null,
-            "bestTime_eventId": "5430847",
+            "bestTime_eventId": "5503043",
             "bestTime_eventSubgroupId": null
           }
         ]
       },
-      "avgHr": 165.4,
+      "avgHr": 165.1,
       "maxHr": 182,
       "hrByStage": {
         "12409": {
@@ -77,7 +77,7 @@
           "maxHr": 178
         },
         "12412": {
-          "avgHr": 165.0,
+          "avgHr": 163.5,
           "maxHr": 180
         },
         "12413": {
@@ -229,7 +229,7 @@
           }
         ]
       },
-      "avgHr": 142.0,
+      "avgHr": 140.0,
       "maxHr": 170,
       "hrByStage": {
         "12409": {
@@ -239,6 +239,10 @@
         "12410": {
           "avgHr": 143.0,
           "maxHr": 170
+        },
+        "12413": {
+          "avgHr": 136.0,
+          "maxHr": 162
         }
       }
     },
