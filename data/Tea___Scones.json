@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-04-06T08:21:09.697557",
+    "generatedAt": "2026-04-06T19:19:20.240742",
     "totalEntries": 23,
-    "lastScraped": "2026-04-06T12:20:46.632256+00:00",
+    "lastScraped": "2026-04-06T23:18:58.397045+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -776,7 +776,7 @@
       "firstName": "Tom",
       "lastName": "Perdy (T&S)",
       "timeMs": 2306333,
-      "zrs": 1528.56,
+      "zrs": 1528.31,
       "gender": "MALE",
       "countryCode": null,
       "eventCount": 1,
