@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0",
-    "generatedAt": "2026-04-10T07:35:01.811370",
+    "generatedAt": "2026-04-10T19:56:06.822382",
     "totalEntries": 23,
-    "lastScraped": "2026-04-10T11:34:40.334407+00:00",
+    "lastScraped": "2026-04-10T23:55:44.799372+00:00",
     "source": "Zwift Games 2026 API",
     "teamName": "Tea & Scones",
     "filteredByProfileIds": true
@@ -776,7 +776,7 @@
       "firstName": "Tom",
       "lastName": "Perdy",
       "timeMs": 2306333,
-      "zrs": 1515.64,
+      "zrs": 1527.91,
       "gender": "MALE",
       "countryCode": null,
       "eventCount": 1,
@@ -800,7 +800,7 @@
       "firstName": "Paul",
       "lastName": "Stephen",
       "timeMs": 2943939,
-      "zrs": 910.04,
+      "zrs": 902.76,
       "gender": "MALE",
       "countryCode": null,
       "eventCount": 1,
@@ -872,7 +872,7 @@
       "firstName": "Steve",
       "lastName": "D",
       "timeMs": 6657079,
-      "zrs": 1234.77,
+      "zrs": 1264.67,
       "gender": "MALE",
       "countryCode": 826,
       "eventCount": 2,
